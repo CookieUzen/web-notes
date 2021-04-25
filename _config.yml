@@ -65,6 +65,8 @@ fixedNav: 'true' # true or false
 
 permalink: /:year/:title/
 markdown: kramdown
+kramdown:
+  math_engine: katex
 exclude: [_site, CHANGELOG.md, LICENSE, README.md, vendor]
 
 # Collections

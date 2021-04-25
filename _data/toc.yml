@@ -1,6 +1,15 @@
-- title: Documentation
+- title: Notes
   url: docs
   links:
+    - title: "Math AA HL"
+      url: "docs/math/AA"
+      children:
+        - title: Sequences and Series
+          url: "docs/math/AA/unit 1"
+        - title: Functions
+          url: "docs/math/AA/unit 2"
+        - title: Logs and Exponents
+          url: "docs/math/AA/exp logs"
     - title: "Getting Started"
       url: "docs/getting-started"
       children:

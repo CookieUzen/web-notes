@@ -131,6 +131,7 @@ Where $r$ is the r-th term inside the sequence.
 Note, the prefix for each term (Combination value) also corresponds to
 Pascal's Triangle.
 
+```
   ------- --- --- --- --- ---- ---- ---- ---- ---- --- --- --- ---
   $r=0$                              1                         
   $r=1$                         1         1                    
@@ -140,6 +141,7 @@ Pascal's Triangle.
   $r=5$        1       5        10        10        5       1  
   $r=6$    1       6       15        20        15       6       1
   ------- --- --- --- --- ---- ---- ---- ---- ---- --- --- --- ---
+```
 
 We can find the specific term from binomial expansion by using this
 expression: $${}^{n}C_{r} a^r b^{n-r}$$

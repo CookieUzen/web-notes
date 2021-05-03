@@ -10,6 +10,37 @@
           url: "docs/math/AA/unit 2"
         - title: Logs and Exponents
           url: "docs/math/AA/exp logs"
+    - title: "Computer Science"
+      url: "docs/cs"
+      children:
+        - title: System Fundemental
+          url: "docs/cs/unit 1"
+        - title: Computer Organization
+          url: "docs/cs/unit 2"
+        - title: Networks
+          url: "docs/cs/unit 3"
+    - title: "Business Management"
+      url: "docs/bm"
+      children:
+        - title: Business Organization and Environment
+          url: "docs/bm/unit 1"
+        - title: Functions and Evolution of Human Resource Management
+          url: "docs/bm/unit 2"
+        - title: Finance and Accounts
+          url: "docs/bm/unit 3"
+    - title: "Physics"
+      url: "docs/physics"
+      children:
+        - title: Measurements and Uncertainties
+          url: "docs/physics/unit 1"
+        - title: Mechanics
+          url: "docs/physics/unit 2"
+        - title: Thermal Physics
+          url: "docs/physics/unit 3"
+        - title: Circular Motion and Gravitation
+          url: "docs/physics/unit 6"
+        - title: Fields
+          url: "docs/physics/unit 10"
     - title: "Getting Started"
       url: "docs/getting-started"
       children:

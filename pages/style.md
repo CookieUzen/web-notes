@@ -14,9 +14,9 @@ permalink: /style/
 ## Subtitle
 ```
 
-### Subsubtitle
+### Sub-subtitle
 ```
-### Subsubtitle
+### Sub-subtitle
 ```
 
 _Italics_
@@ -32,9 +32,34 @@ __Bold__
 Inline equation: $y=mx+b$
 ```
 Inline equation: $y=mx+b$
+```
+
+Bullet Points:
+- 1
+	* 2
+		+ 3
+			+ 4
+
+1. One
+	a. Two
+		i. Three
+			- Four
+
+```
+Bullet Points:
+- 1
+	* 2
+		+ 3
+			+ 4
+
+1. One
+	a. Two
+		i. Three
+			- Four
 ```
 
 Display style equation:
+
 $$
 \begin{aligned}
 	y &= mx + b \\
@@ -44,6 +69,7 @@ $$
 
 ```
 Display style equation:
+
 $$
 \begin{aligned}
 	y &= mx + b \\

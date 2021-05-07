@@ -1,6 +1,6 @@
 ---
 title: Business organization and Environment
-description: Unit 1 of Business Management
+description: Unit 2 of Business Management
 ---
 
 # Human Resources Planning

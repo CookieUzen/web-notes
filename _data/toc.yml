@@ -1,6 +1,33 @@
 - title: Notes
   url: docs
   links:
+    - title: "Physics"
+      url: "docs/physics"
+      children:
+        - title: Measurements and Uncertainties
+          url: "docs/physics/unit 1"
+        - title: Mechanics
+          url: "docs/physics/unit 2"
+        - title: Thermal Physics
+          url: "docs/physics/unit 3"
+        - title: Waves
+          url: "docs/physics/unit 4"
+        - title: Electricity and Magnetism
+          url: "docs/physics/unit 5"
+        - title: Circular Motion and Gravitation
+          url: "docs/physics/unit 6"
+        - title: Atomic, Nuclear, and Particle Physics
+          url: "docs/physics/unit 7"
+        - title: Energy Production
+          url: "docs/physics/unit 8"
+        - title: Wave Phenomena
+          url: "docs/physics/unit 9"
+        - title: Fields
+          url: "docs/physics/unit 10"
+        - title: Electromagnetic Induction
+          url: "docs/physics/unit 11"
+        - title: Quantum and Nuclear Physics
+          url: "docs/physics/unit 12"
     - title: "Math AA HL"
       url: "docs/math/AA"
       children:
@@ -28,21 +55,6 @@
           url: "docs/bm/unit 2"
         - title: Finance and Accounts
           url: "docs/bm/unit 3"
-    - title: "Physics"
-      url: "docs/physics"
-      children:
-        - title: Measurements and Uncertainties
-          url: "docs/physics/unit 1"
-        - title: Mechanics
-          url: "docs/physics/unit 2"
-        - title: Thermal Physics
-          url: "docs/physics/unit 3"
-        - title: Circular Motion and Gravitation
-          url: "docs/physics/unit 4"
-        - title: Waves
-          url: "docs/physics/unit 6"
-        - title: Fields
-          url: "docs/physics/unit 10"
     - title: "Getting Started"
       url: "docs/getting-started"
       children:

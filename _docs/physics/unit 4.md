@@ -1,4 +1,3 @@
-
 ---
 title: Waves
 description: Unit 4 of Physics
@@ -40,7 +39,7 @@ The rope is then attached on something, gravity pulls the mass taunt.
 The object then oscillates perpendicular to the direction of gravity (left and right), along the length of the spring.
 In this system, the energy of the system is composed of kinetic energy of the mass, and the gravitational potential energy of the spring.
 
-More information regarding the SHM can be found on [unit 9.1]({% post_url unit 9%}).
+More information regarding the SHM can be found on unit 9.1.
 
 # Traveling Waves
 
@@ -60,19 +59,20 @@ They are based on the perpendicular, fluctuating electric and magnetic fields co
 We often classify electromagnetic waves by its frequency.
 The electromagnetic frequency contains all of the electromagnetic waves.
 Light is an electromagnetic wave.
-All electromagnetic waves travel at _light speed_ ($c$, $3.00*10^8 \; m\,s^{-1}$)
+All electromagnetic waves travel at _light speed_ ($c$, $3.00\cdot10^8 \; m\,s^{-1}$)
 
 Below is a table of the electromagnetic spectrum:
-| Wave Approximate wavelength |                   |
-|-----------------------------|-------------------|
-| gamma-rays                  | $ < 10-12 m$      |
-| x-rays                      | $1 nm - 1 pm$     |
-| ultraviolet                 | $400 nm - 1 nm$   |
-| visible                     | $750 nm - 400 nm$ |
-| near-infrared               | $2.5 μm - 750 nm$ |
-| infrared                    | $25 μm - 2.5 μm$  |
-| microwaves                  | $1 mm - 25 μm$    |
-| radio waves                 | $ > 1 mm$         |
+
+| Wave          | Approximate wavelength |
+|---------------|------------------------|
+| gamma-rays    | $ < 10-12 m$           |
+| x-rays        | $1 nm - 1 pm$          |
+| ultraviolet   | $400 nm - 1 nm$        |
+| visible       | $750 nm - 400 nm$      |
+| near-infrared | $2.5 μm - 750 nm$      |
+| infrared      | $25 μm - 2.5 μm$       |
+| microwaves    | $1 mm - 25 μm$         |
+| radio waves   | $ > 1 mm$              |
 
 ### Transverse and Longitudinal
 
@@ -114,6 +114,8 @@ $$ \begin{aligned}
 	I &\propto x^{-2}
 \end{aligned}$$
 
+If a line is drawn across a wave, where every point on the line has the same phase, the line would be called the wavefront.
+
 
 ### Graphing Traveling Waves
 
@@ -144,6 +146,7 @@ Constructive interference is when the two waves add together, creating a wave th
 Destructive interference is when the two waves add together, creating a wave that has a smaller amplitude at every point.
 
 ## Polarization
+
 Unpolarized oscillates on more that one plane.
 Polarization removes all planes except for one.
 Only transverse waves can be polarized.
@@ -159,16 +162,58 @@ $$ \begin{aligned}
 
 # Wave Behavior
 
+Waves can be modified when passing through different mediums.
+
 ## Reflection
+
+When a wave meets a smooth flat plane, the plane can redirect the wave without absorbing the waves' energy.
+This is called reflection.
+The original wave is called the _incident wave_, while the reflected wave is called the _reflected wave_.
+
+If a line perpendicular to the plane is drawn at the point of reflection (normal line), then the angle between the incident wave and the normal line would be the same as the angle between the reflected wave and the normal line.
 
 ## Refraction
 
+Refraction occurs when a wave enters a different medium that the one it is originally traveling in.
+If we draw the normal line perpendicular to the separation between the two medium, two angles would be formed.
+The _angle of incidence_ ($\theta_i$) between the normal and the indent wave, and the _angle of refraction_ ($\theta_r$) between the normal and the refracted wave.
+
+The refractive index measures the speed of wave in a medium compared to the speed of the wave in vacuum.
+Snell's law models the relationship between the refractive index and the angles.
+
+$$\begin{align}\frac{n_1}{n_2} = \frac{\sin\theta_2}{\sin\theta_1} = \frac{v_2}{v_1}\end{aligned}$$
+
 ## Diffraction
 
+Diffraction occurs when a wave travel through a slit/opening (the size of the opening have to be comparable to the wavelength in order for noticeable diffraction).
+_Huygen's wave theory_ says that every point on a wavefront can be separated into a new circular wave called the wavelet.
+Constructive interference then combines all the wavelets together to create a uniformed wavefront.
+
+Due to this, when a wave pass through a slit, the edges of the wave (after passing through the slit) are slightly round, facing away from the slit. 
+While all other points on the slit remain the same.
+
 ## Interference
+Interference occurs two coherent waves interact with each other.
+In the case that two coherent sources are put next to each other, then an interference pattern will be created.
+
+In order for constructive interference to occur, the path difference between the two waves have to $n\lambda$, where $n$ is a whole number.
+In order for destructive interference to occur, the path difference between the two waves have to $\left ( \frac{1}{2}+n\right )\lambda$, where $n$ is a whole number.
+
 
 # Standing Waves
 
+Standing waves are special type of wave.
+It propagates energy, but does not transfer matter.
+Each point on a stationary wave have its own amplitude, but oscillates with the same frequency. 
+Standing waves are created when two traveling collide.
+Standing waves are normally found on a string/container with one or more loose end/open end.
+
 ## Characteristics of Standing Waves
 
+The node of a standing wave is a point on the standing wave where the amplitude is zero.
+The anti-node of a standing wave is a point on the standing wave where the amplitude the maximum.
+
 ## Harmonics
+
+Standing waves can form harmonics.
+To find out the wavelength of each harmonic, draw out the standing wave.

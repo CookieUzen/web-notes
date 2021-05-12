@@ -17,20 +17,14 @@ strategic change in the organization.
 There is two major activities in terms of workplace planning. The first
 task is the gathering of information HR needs of a company. This means
 data about the company's population, turnover rates (refer
-to [0.2](#LaborTurnover){reference-type="ref"
-reference="LaborTurnover"}), employee shortages, and strategic goals.
+to [0.2](#Labor Turnover), employee shortages, and strategic goals.
 The second activity is developing the response HR need to take.
 
-A work force plan should follow the steps below:
-
--   Assess current employees
-
--   Analyze demand for employees
-
--   Analyze the supply of employees
-
--   Compare the demand and supply data
-
+A work force plan should follow the steps below: 
+-   Assess current employees 
+-   Analyze demand for employees 
+-   Analyze the supply of employees 
+-   Compare the demand and supply data 
 -   Develop and implement the work force plan
 
 ## Forecasting the demand for employees
@@ -38,26 +32,19 @@ A work force plan should follow the steps below:
 To predict the future employee need of a firm, we would use several
 different approaches:
 
--   Past Data
-
--   Productivity of Workers
-
--   Management Knowledge
-
+-   Past Data 
+-   Productivity of Workers 
+-   Management Knowledge 
 -   Calculating staff turnover
 
 However, there are many factors that can influence the demand for
 employees. Several are listed below:
 
--   Change in demand of goods and services
-
--   Technology developments
-
--   Change in business goals
-
--   change in organization structure
-
--   change in production techniques
+-   Change in demand of goods and services 
+-   Technology developments 
+-   Change in business goals 
+-   Change in organization structure 
+-   Change in production techniques
 
 Thus, it is often worthwhile to take not just use past data to evaluate
 the demand for employees. Many times, knowledge from employees and
@@ -76,87 +63,60 @@ externally have its advantages and disadvantages.
 ## Internal Employees Supply
 
 This will likely depends on the company's stance on:
-
--   Internal Promotion
-
--   Staff Development
-
--   Labor Turnover
-
+-   Internal Promotion 
+-   Staff Development 
+-   Labor Turnover 
 -   Legal conditions for redundancy and dismissal
 
 ## External Employee Supply
 
-The business need to analyze a range of local and national factors:
-
--   Housing and Transport
-
--   Level of Competition
-
--   Rate of Unemployment
-
--   Government Training and Subsidies
-
--   Skill available in the region
-
--   Population and demographics
-
+The business need to analyze a range of local and national factors: 
+-   Housing and Transport 
+-   Level of Competition 
+-   Rate of Unemployment 
+-   Government Training and Subsidies 
+-   Skill available in the region 
+-   Population and demographics 
 -   Cost of recruitment
 
-# Labor Turnover {#LaborTurnover}
+# Labor Turnover
 
 Labor Turnover is the percentage of the workforce that leaves every
 year. There are many reasons in which an employee may leave: They can be
 fired, sick, redundant.
 
 To measure employee turnover, we use a equation:
-$$\texttt{Labor Turnover} = \frac{\texttt{Number of Employees Leaving}}{ \texttt{Number of Employees in the business} } \cdot 100 \\$$
+$$ \begin{aligned} \texttt{Labor Turnover} = \frac{\texttt{Number of Employees Leaving}}{ \texttt{Number of Employees in the business} } \cdot 100 \end{aligned}$$
 
 Different types of company have different labor turnover rates. However,
 in general, the higher the labor turnover, the more troubling it is.
 
 ## Avoidable Causes of Employee Leaving
 
-There are some avoidable causes for employee leaving:
-
--   Dissatisfaction with payment
-
--   Poor Working Environment
-
--   Job Dissatisfaction
-
--   Human Resource Policies
-
--   Lack of Facilities
-
+There are some avoidable causes for employee leaving: 
+-   Dissatisfaction with payment 
+-   Poor Working Environment 
+-   Job Dissatisfaction 
+-   Human Resource Policies 
+-   Lack of Facilities 
 -   Dissatisfaction with Working Time
 
 ## Unavoidable Cause of Employees Leaving
 
--   Family Circumstance
-
--   Physical Reasons
-
--   Marriage
-
--   Birth of Children
-
--   Retirement
-
--   Dismissal
-
+-   Family Circumstance 
+-   Physical Reasons 
+-   Marriage 
+-   Birth of Children 
+-   Retirement 
+-   Dismissal 
 -   Redundancy
 
 ## Cost of Labor Turnover
 
--   Recruitment
-
--   Loss of Productivity
-
--   Inefficiency
-
--   Training
-
+-   Recruitment 
+-   Loss of Productivity 
+-   Inefficiency 
+-   Training 
 -   Reputation of Company
 
 There are numerous disadvantage of a high Labor Turnover. Thus, it is in
@@ -169,28 +129,19 @@ factors: **External** and **Internal** factors.
 
 ## External Factors
 
--   Competition
-
--   Payment
-
--   Legislation
-
--   Technology Advancements
-
--   Population and Demographics
-
--   Economic Situation
-
--   Availability of Skills
-
+-   Competition 
+-   Payment 
+-   Legislation 
+-   Technology Advancements 
+-   Population and Demographics 
+-   Economic Situation 
+-   Availability of Skills 
 -   Government Training and Subsidies
 
 ## Internal Factors
 
--   Budget
-
--   Policy on Promotion
-
+-   Budget 
+-   Policy on Promotion 
 -   Working Practice
 
 # Recruitment Process
@@ -199,16 +150,11 @@ The recruitment process is very important. A bad recruitment process may
 lead to a high Labor Turnover. A common recruitment process looks like
 this:
 
-1.  Job Analysis
-
-2.  Job Description
-
-3.  Person Specification
-
-4.  Job Evaluation
-
-5.  Job Advertisement
-
+1.  Job Analysis 
+2.  Job Description 
+3.  Person Specification 
+4.  Job Evaluation 
+5.  Job Advertisement 
 6.  Selection
 
 ## Job Analysis
@@ -244,12 +190,9 @@ This would be the stage where the candidate is chosen. Often, there are
 different ways to carry out this stage. Some commonly used methods will
 be listed below:
 
--   Application
-
--   Job Interview
-
--   Testing
-
+-   Application 
+-   Job Interview 
+-   Testing 
 -   Job Offer
 
 # Internal and External Recruitment
@@ -258,56 +201,36 @@ be listed below:
 
 There are several advantages and disadvantage of Internal Recruitment.
 
-**Advantages**\
-
--   Shorter training
-
--   Reuse existing resources
-
--   Managers are familiar with employee
-
--   Cheaper
-
--   Motivating to other employees
-
+**Advantages**
+-   Shorter training 
+-   Reuse existing resources 
+-   Managers are familiar with employee 
+-   Cheaper 
+-   Motivating to other employees 
 -   Retains valuable employees
 
-**Disadvantages**\
-
--   Limited applicants
-
+**Disadvantages**
+-   Limited applicants 
 -   Limit to better employees outside
-
--   Vacancy is created, and need to be filled
-
--   Less new ideas are brought into an organization
-
+-   Vacancy is created, and need to be filled 
+-   Less new ideas are brought into an organization 
 -   May cause conflict in organization
 
 ## External Recruitment
 
 There are several advantages and disadvantage of External Recruitment.
 
-**Advantages**\
-
--   Brings new idea to the table
-
--   Encourage existing staff to update their skills
-
--   Promotes change
-
+**Advantages** 
+-   Brings new idea to the table 
+-   Encourage existing staff to update their skills 
+-   Promotes change 
 -   Offer greater choice
 
-Disadvantages\
-
--   New employees may not fit in
-
--   Demotivated existing staff
-
--   Costly and time consuming
-
--   Require training
-
+Disadvantages 
+-   New employees may not fit in 
+-   Demotivated existing staff 
+-   Costly and time consuming 
+-   Require training 
 -   Higher risk of unsuitable employment
 
 # Types of Training
@@ -317,18 +240,12 @@ is often overlooked.
 
 ## Benefits of Training
 
--   Increase productivity
-
--   Can replace other in an organization restructure
-
--   Catch up to new technology
-
--   Increase employee confidence
-
--   Increase job satisfaction
-
--   Increase chance of promotion
-
+-   Increase productivity 
+-   Can replace other in an organization restructure 
+-   Catch up to new technology 
+-   Increase employee confidence 
+-   Increase job satisfaction 
+-   Increase chance of promotion 
 -   Give a competitive advantage to the company
 
 ## Need for Training
@@ -402,18 +319,12 @@ is also more expensive.
 
 # Types Appraisal
 
--   Performance appraisal by supervisor
-
--   Appraisal by a manager up in the hierachy
-
--   Formative appraisal
-
--   Summative appraisal
-
--   Self-appraisal
-
--   360-degree appraisal
-
+-   Performance appraisal by supervisor 
+-   Appraisal by a manager up in the hierachy 
+-   Formative appraisal 
+-   Summative appraisal 
+-   Self-appraisal 
+-   360-degree appraisal 
 -   Management by objectives
 
 # Dismissal and Redundancy
@@ -426,36 +337,25 @@ is also more expensive.
 
 ## Steps to dismissal
 
-1.  Full investigation
-
-2.  Complete check
-
-3.  Written evidence
-
-4.  Meeting with employee
-
+1.  Full investigation 
+2.  Complete check 
+3.  Written evidence 
+4.  Meeting with employee 
 5.  Written notice
 
 ## Types of Redundacy
 
--   Job Redundancy
-
--   Work place redundancy
-
+-   Job Redundancy 
+-   Work place redundancy 
 -   Employee redundancy
 
 ## Common Redundancy steps
 
-1.  Plan redundancy
-
-2.  Identify Alternative
-
-3.  Prepare a schedule
-
-4.  Inform Employee
-
-5.  Redundancy Selection
-
+1.  Plan redundancy 
+2.  Identify Alternative 
+3.  Prepare a schedule 
+4.  Inform Employee 
+5.  Redundancy Selection 
 6.  Individual Consultation
 
 # Work Patterns and Practices
@@ -464,7 +364,6 @@ is also more expensive.
 
 Employees work only part of the working time. Often done be individuals
 with many jobs, or have to be working on something else (education).
-
 Part time worker's wages are cheaper and they are easier to replace.
 They get less benefits and are more flexible. However, part time workers
 have less motivation and loyalty. There is also a higher training cost.
@@ -472,21 +371,18 @@ have less motivation and loyalty. There is also a higher training cost.
 ## Temporary Employment
 
 This is when employees are employed only for a short period of time.
-
 Temporary workers receive higher wages, and are more flexible. But they
 may lack loyalty and motivation.
 
 ## Flextime Employment
 
 Employees can work with a flexible time schedule.
-
 This allows for more employee work satisfaction. But creates difficulty
 with scheduling.
 
 ## Teleworking
 
 Employees can work at a separately from the company.
-
 This reduce cost of office space and facilities. It increases employee
 satisfaction, allows more working time. But may be detrimental to
 collaboration, and unsuitable for many types of jobs.
@@ -531,8 +427,6 @@ Offshoring, but to a county close to the home country.
 # Organization Structure
 
 # Terminology
-
-## Delegation
 
 Delegation is the act of assigning responsibility to a person, in order
 for them to carry out a task. Normally, one delegates downwards to
@@ -688,9 +582,9 @@ Leadership that focus on employees' input.
 
 # Motivation
 
-# Motivational Theory
+## Motivational Theory
 
-## Frederick Winslow Taylor
+### Frederick Winslow Taylor
 
 Break down each task into small components, then scientifically teach
 the employees. Offer extrinsic incentives in the right place.
@@ -698,7 +592,7 @@ the employees. Offer extrinsic incentives in the right place.
 This model ensures higher efficiency, but is suited only for simple
 tasks.
 
-## Abraham Maslow
+### Abraham Maslow
 
 Maslow's pyramid showcase the levels of needs for each individual. Below
 is the layers of the pyramid in order.
@@ -718,49 +612,36 @@ below in a family.
 Maslow argues that you need to satisfy the basic needs before the
 complex needs.
 
-## Fredrick Herzberg
+### Fredrick Herzberg
 
 There are two different needs. Hygiene needs and Motivational needs.
 
 Hygiene need, if not met, causes dissatisfaction with work. Motivational
 needs, when met, causes satisfaction with work.
 
-## John Stacey Adams
+### John Stacey Adams
 
 An employees should receive equal inputs and outputs. When employees are
 satisfied when the inputs and the outputs are perceived to be equal.
 
-## Daniel H. Pink
+### Daniel H. Pink
 
 Pink focus on Autonomy, Mastery, and Purpose. He believes that this is
 the modern way to achieve motivation.
 
-# Financial Motivation Tools
-
--   Salary
-
--   Wages
-
--   Commission
-
--   Profit-based pay
-
--   Performance-related pay
-
--   Employee share-ownership schemes
-
+## Financial Motivation Tools 
+-   Salary 
+-   Wages 
+-   Commission 
+-   Profit-based pay 
+-   Performance-related pay 
+-   Employee share-ownership schemes 
 -   Perks
 
-# Non-Financial Motivational Tools
-
--   Job rotation
-
--   Job enlargement
-
--   Job enrichment
-
--   Empowerment
-
--   Opportunity to make a difference
-
+## Non-Financial Motivational Tools 
+-   Job rotation 
+-   Job enlargement 
+-   Job enrichment 
+-   Empowerment 
+-   Opportunity to make a difference 
 -   Teamwork

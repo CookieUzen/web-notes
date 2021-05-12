@@ -10,15 +10,11 @@ description: Unit 2 of Business Management
 There are many things companies spend money on. This subsection will
 list some of the uses of finance.
 
-#### Capital Expenditure
-
 One of the most common source of expenditure is `Capital`. Capital
 investment is spending money on `fixed assets`, which are assets that
 are hard to sell. Generally, capital expenditures are used to fund long
 term goals, such as building facilities or buying machinery. Capital
 expenditures are often funded by long term sources of finance.
-
-#### Revenue Expenditure
 
 Revenue expenditure is spending money on general operation costs.
 Expenditures such as wages or rent. Revenue expenditures are often
@@ -30,18 +26,11 @@ pay its revenue expenditure, they go into a state of insolvency.
 Internal sources of finance refers to money collected internally. Such
 as the sale of assets, retain profit, or personal funds.
 
-Personal Funds
+__Personal Funds__ is the money invested by the owners of the business
 
-:   is the money invested by the owners of the business
+__Retained Profit__ is profit leftover (after paying the bills) from end of a trading year
 
-Retained Profit
-
-:   is profit leftover (after paying the bills) from end of a trading
-    year
-
-Sale of Assets
-
-:   is money gained from selling any assets
+__Sale of Assets__ is money gained from selling any assets
 
 ## External Source of Finance
 
@@ -55,75 +44,47 @@ Equity does not come with any interest, or requirement of repayment.
 However, selling equity comes with the cost of losing control and
 dividends.
 
-Share Capital
+__Share Capital__ is money raised through selling shares.
 
-:   is money raised through selling shares
+__Business Angel__ are wealthy investors, often buying a chunk of shares as investment.
 
-Business Angel
-
-:   are wealthy investors, often buying a chunk of shares as investment
-
-Venture Capitalist
-
-:   are companies similar to Business Angels
+__Venture Capitalist__ are companies similar to Business Angels.
 
 ### Debt Finance
 
-Debt finance is the method of borrowing money to acquire finance. Often
-times, borrowing money can quickly bring money for investment, but their
+Debt finance is the method of borrowing money to acquire finance. Often times, borrowing money can quickly bring money for investment, but their
 is the cost of interest. Interest is additional money owed overtime as
 borrowed money is payed off.
 
-Loan Capital
-
-:   are long term borrowing of money, often for the purchasing capital.
+__Loan Capital__ are long term borrowing of money, often for the purchasing capital.
     These loans require collateral in case there is a default on the
     loan.
 
-Overdrafts
-
-:   are a high cost, short term loan. It is when the company spend more
+__Overdrafts__ are a high cost, short term loan. It is when the company spend more
     money that they have in their account, and have to pay back in high
     interest.
 
-Credit Cards
-
-:   are a method of borrowing money and paying back every month.
+__Credit Cards__ are a method of borrowing money and paying back every month.
 
 ### Financial Aid
 
 Financial Aid is money given to the companies for free. Generally, these
 come from NGOs or governments who want to support the business.
 
-Subsidies
+__Subsidies__ money given to the production of goods that is good for the society, often provided by the government
 
-:   money given to the production of goods that is good for the society,
-    often provided by the government
-
-Grants
-
-:   are loans with no interest, and does not need to be paid back. There
-    may be conditions on how the money is spent
+__Grants__ are loans with no interest, and does not need to be paid back. There may be conditions on how the money is spent
 
 ### Other Sources of Finance
 
 Other then the main sources of finance, there are others that does not
 fit the groups.
 
-Trade Credit
+__Trade Credit__ is a method of paying for goods at a later date, without interest. Often provided to companies by companies.
 
-:   is a method of paying for goods at a later date, without interest.
-    Often provided to companies by companies.
+__Debt Factoring__ is the action of selling debt, to a debt factoring company. Often at a lower cost, but with an immediate payment.
 
-Debt Factoring
-
-:   is the action of selling debt, to a debt factoring company. Often at
-    a lower cost, but with an immediate payment.
-
-Leasing
-
-:   is the action of leasing fixed assets instead of buying them.
-    Flexible, but cost more in the long run.
+__Leasing__ is the action of leasing fixed assets instead of buying them. Flexible, but cost more in the long run.
 
 ## Short, Medium, and Long-Term Finance
 
@@ -137,16 +98,11 @@ Short-term finance are repaid within 12 months. These are normally used
 to solve cash flow problems or to pay for revenue expenditure.
 Short-term finance is often expensive and have high interest.
 
-Below is a list of short term finances:
-
--   Overdraft
-
--   Trade Credit
-
--   Debt Factoring
-
--   Leasing
-
+Below is a list of short term finances: 
+-   Overdraft 
+-   Trade Credit 
+-   Debt Factoring 
+-   Leasing 
 -   Subsidies
 
 ### Medium-Term
@@ -155,12 +111,9 @@ Medium-term finance last longer than 12 months, but less than 5 year.
 These are normally used for buying fixed assets or capital. Medium term
 finance is in-between of short and long term finance.
 
-Below is a list of medium term finances:
-
--   Loan Capital
-
--   Leasing
-
+Below is a list of medium term finances: 
+-   Loan Capital 
+-   Leasing 
 -   Subsidies
 
 ### Long-Term
@@ -168,16 +121,11 @@ Below is a list of medium term finances:
 Long term finance last longer than 5 years. Mortgages and all equity
 finance belong in this category.
 
-Below is a list of long term finance:
-
--   Share Capital
-
--   Venture Capital
-
--   Business Angel
-
--   Loan Capital
-
+Below is a list of long term finance: 
+-   Share Capital 
+-   Venture Capital 
+-   Business Angel 
+-   Loan Capital 
 -   Grants
 
 ## Evaluation of Sources of Finance
@@ -270,29 +218,18 @@ a company to find how much it need to sell in order to `break even`
 
 There are several units used in the calculation that have to be noted.
 
-Fixed Cost
+__Fixed Cost__ is cost not effected by change of production
 
-:   is cost not effected by change of production
+__Variable Cost__ is cost directly effected by change of production
 
-Variable Cost
+__Contribution per Unit__ is the price per unit minus the variable cost per unit
 
-:   is cost directly effected by change of production
+__Break Even Point__ is the unit of product sold that the total profit is zero
 
-Contribution per Unit
-
-:   is the price per unit minus the variable cost per unit
-
-Break Even Point
-
-:   is the unit of product sold that the total profit is zero
-
-Margin of Safety
-
-:   is the difference between the current unit sold and the break even
-    point
+__Margin of Safety__ is the difference between the current unit sold and the break even point
 
 The break even point can be calculated using the following equation:
-$$\frac{\textrm{Fixed Costs}}{\textrm{Contribution per Unit}}$$
+$$\begin{aligned}\frac{\textrm{Fixed Costs}}{\textrm{Contribution per Unit}}\end{aligned}$$
 
 ## Break-Even Charts
 
@@ -347,74 +284,42 @@ final accounts to compare profits and financial strength.
 
 ## Profit and Loss Account
 
--   Sales Revenue
-
--   Cost of Good Sold
-
--   Gross Profit
-
--   Expenses
-
--   Total Expense
-
--   Net Profit before Interest and Tax
-
--   Interest
-
--   Net Profit before Tax
-
--   Tax
-
--   Net Profit After Interest and Tax
-
--   Dividends
-
+-   Sales Revenue 
+-   Cost of Good Sold 
+-   Gross Profit 
+-   Expenses 
+-   Total Expense 
+-   Net Profit before Interest and Tax 
+-   Interest 
+-   Net Profit before Tax 
+-   Tax 
+-   Net Profit After Interest and Tax 
+-   Dividends 
 -   Retained Profit
 
 ## Balance Sheet
 
--   Fixed Assets
-
-    -   Fixed Assets
-
-    -   Accumulated Depreciation
-
-    -   Net Fixed Assets
-
--   Current Assets
-
-    -   Cash
-
-    -   Debtors
-
-    -   Stock
-
-    -   Total Current Assets
-
--   Current Liabilities
-
-    -   Overdraft
-
-    -   Creditors
-
-    -   Short Term Loans
-
-    -   Total Current Liabilities
-
-    -   Net Current Assets
-
-    -   Total Assets less Current Liabilities
-
--   Long Term Liabilities (Debt)
-
-    -   Long-Term Loans
-
-    -   Mortgage
-
-    -   Total Long-Term Liabilities
-
-    -   Net Assets
-
+-   Fixed Assets 
+    -   Fixed Assets 
+    -   Accumulated Depreciation 
+    -   Net Fixed Assets 
+-   Current Assets 
+    -   Cash 
+    -   Debtors 
+    -   Stock 
+    -   Total Current Assets 
+-   Current Liabilities 
+    -   Overdraft 
+    -   Creditors 
+    -   Short Term Loans 
+    -   Total Current Liabilities 
+    -   Net Current Assets 
+    -   Total Assets less Current Liabilities 
+-   Long Term Liabilities (Debt) 
+    -   Long-Term Loans 
+    -   Mortgage 
+    -   Total Long-Term Liabilities 
+    -   Net Assets 
     -   Equity
 
 ## Figures
@@ -428,27 +333,15 @@ final accounts to compare profits and financial strength.
 Although we can calculate a value for most assets, some assets have
 intangible value.
 
-Patents
+__Patents__ are legal protection that protects an invention for a set number of years.
 
-:   are legal protection that protects an invention for a set number of
-    years.
+__Copyright__ are similar to patents, but for artistic works
 
-Copyright
+__Brand__ is the brand image of a company
 
-:   are similar to patents, but for artistic works
+__Registered Trademark__ is a distinctive symbol of the company.
 
-Brand
-
-:   is the brand image of a company
-
-Registered Trademark
-
-:   is a distinctive symbol of the company.
-
-Goodwill
-
-:   is the difference between the purchasing price of a company and its
-    net assets
+__Goodwill__ is the difference between the purchasing price of a company and its net assets
 
 ## Depreciation
 
@@ -474,7 +367,7 @@ method and Reducing Balance method.
 The straight line method assumes the asset decrease in value at a fixed
 rate. Use this equation to calculate the decrease in value per unit of
 time.
-$$\textrm{Depreciation per unit of time} = \frac{\textrm{Purchase Price} - \textrm{Residual Value}}{\textrm{Estimated useful life}}$$
+$$\begin{aligned}\textrm{Depreciation per unit of time} = \frac{\textrm{Purchase Price} - \textrm{Residual Value}}{\textrm{Estimated useful life}}\end{aligned}$$
 
 The Reducing Balance method assumes the asset reduce in value by a
 percent of its value.
@@ -493,7 +386,7 @@ to make money.
 
 GPM is a measure of how profitable the core business activities are. It
 is calculate with the following equation:
-$$GPM = \frac{\textrm{Gross Profit}}{\textrm{Sales Revenue}} \times 100\%$$
+$$\begin{aligned}GPM = \frac{\textrm{Gross Profit}}{\textrm{Sales Revenue}} \times 100\%\end{aligned}$$
 
 The higher the ratio, the more the business earn from is revenue. There
 is no good ratio, as different companies have different ideal ratios.
@@ -510,7 +403,7 @@ can also look to reducing cost.
 Net Profit Margin shows net profit as a percentage of sales revenue.
 Similar to GPM, but factor into fixed costs. Calculate NPM with the
 following equation:
-$$NPM = \frac{\textrm{Net profit before interest and tax}}{\textrm{Sales revenue}} \times 100\%$$
+$$\begin{aligned}NPM = \frac{\textrm{Net profit before interest and tax}}{\textrm{Sales revenue}} \times 100\%\end{aligned}$$
 
 The higher the ratio, the better the company is at managing overhead
 costs.
@@ -522,9 +415,9 @@ costs.
 
 Return On Capital Employed measures how well a company can make money
 from capital. Use the following equation to calculate ROCE.
-$$ROCE = \frac{\textrm{Net profit before interest and tax}}{\textrm{Capital Employed}} \times 100\%$$
+$$\begin{aligned}ROCE = \frac{\textrm{Net profit before interest and tax}}{\textrm{Capital Employed}} \times 100\%\end{aligned}$$
 In which `Capital Employed` can be calculated with the equation below:
-$$\textrm{Capital Employed} = \texttt{Long Term Liabilities} + \texttt{Share Capital} + \texttt{Retained Profits}$$
+$$\begin{aligned}\textrm{Capital Employed} = \texttt{Long Term Liabilities} + \texttt{Share Capital} + \texttt{Retained Profits}\end{aligned}$$
 
 The higher ROCE is, the better the company is at making money from
 capital. Note that if ROCE is lower than the interest rate of a
@@ -543,7 +436,7 @@ can measure how well can a company pay off short term debts.
 
 Current ratio measures how much a company own compared to how much they
 owe. Calculate the current ratio with the equation below:
-$$\texttt{Current Ratio} = \frac{\textrm{Current Assets}}{\textrm{Current Liabilities}}$$
+$$\begin{aligned}\texttt{Current Ratio} = \frac{\textrm{Current Assets}}{\textrm{Current Liabilities}}\end{aligned}$$
 
 The higher the ratio, the healthier the company's total assets. Note,
 companies want their current ratio to be above 1, as dropping below 1
@@ -565,7 +458,7 @@ Acid Test Ratio measures a more severe indicator of a firm's ability to
 pay off short term debt, similar to the Current Ratio. Stocks is
 subtracted from current asset, as it is not as liquid. Use the equation
 below to calculate the Acid Test Ratio:
-$$\texttt{Acid Test Ratio} = \frac{\textrm{Current Assets} - \textrm{Stock}}{\textrm{Current Liabilities}}$$
+$$\begin{aligned}\texttt{Acid Test Ratio} = \frac{\textrm{Current Assets} - \textrm{Stock}}{\textrm{Current Liabilities}}\end{aligned}$$
 
 Evaluate this ratio similar to the current ratio.
 
@@ -583,29 +476,24 @@ The Stock Turnover Ratio measures frequent a company have to replenish
 its stocks. The more frequent, the company is better at converting
 stocks into sales. Use the equation below the calculate the Stock
 Turnover Ratio.
-$$\texttt{Stock Turnover Ratio} = \frac{\textrm{Cost of Goods Sold}}{\textrm{Average Stock}}$$
+$$\begin{aligned}\texttt{Stock Turnover Ratio} = \frac{\textrm{Cost of Goods Sold}}{\textrm{Average Stock}}\end{aligned}$$
 
 The higher the Stock Turnover Ratio, the better the company is at
 turning stock into sales. Note, Stock Turnover Ratio does not apply to
 every company, especially companies that sell services.
 
-Companies can improve this ratio by:
-
--   Lowering price
-
--   Increasing promotions
-
--   Stocking fast selling items
-
--   Buy stocks *just in time*
-
+Companies can improve this ratio by: 
+-   Lowering price 
+-   Increasing promotions 
+-   Stocking fast selling items 
+-   Buy stocks *just in time* 
 -   Use better sales forecast
 
 ### Debtor Days
 
 Debtor days measures how well a company can collect its debt. Use the
 equation below to calculate Debtor Days:
-$$\texttt{Debtor Days} = \frac{\textrm{Debtors}}{\textrm{Total Sale Revenue}} \times 365$$
+$$\begin{aligned}\texttt{Debtor Days} = \frac{\textrm{Debtors}}{\textrm{Total Sale Revenue}} \times 365\end{aligned}$$
 
 Companies can increase Debtor Days by improving credit control.
 
@@ -614,7 +502,7 @@ Companies can increase Debtor Days by improving credit control.
 Creditor Days measures the number of days a company settle its debts.
 Similar to Debtor Days, but for the company's debts. Use the equation
 below to calculate Creditor Days:
-$$\texttt{Debtor Days} = \frac{\textrm{Creditors}}{\textrm{Cost of Goods Sold}} \times 365$$
+$$\begin{aligned}\texttt{Debtor Days} = \frac{\textrm{Creditors}}{\textrm{Cost of Goods Sold}} \times 365\end{aligned}$$
 
 Companies can improve creditor days but having a good stock control
 system, and having good relations with suppliers.
@@ -628,7 +516,7 @@ itself. Also, interest and dividend will be higher with a higher gearing
 ratio.
 
 Calculate the gearing ratio with the equation below:
-$$\texttt{Gearing Ratio} = \frac{\textrm{Loan Capital}}{\textrm{Capital Employed}} \times 100\%$$
+$$\begin{aligned}\texttt{Gearing Ratio} = \frac{\textrm{Loan Capital}}{\textrm{Capital Employed}} \times 100\%\end{aligned}$$
 
 To improve the gearing ratio, a company can increase retained profit.
 They can also pay up long term loans or swap debt for equity.

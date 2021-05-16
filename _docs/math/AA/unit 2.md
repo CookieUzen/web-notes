@@ -18,11 +18,8 @@ A function must pass the horizontal line test in order to have an inverse.
 
 ## Odd and Even Functions
 
-An __even function__ is a function that is symmetric over the $y$ axis.
-Or in other words, $f(x) = f(-x)$.
-
-An __odd function__ is a function that is symmetric over the line $y=-x$.
-Or in other words, $f(x) = -f(-x)$
+- An __even function__ is a function that is symmetric over the $y$ axis. $f(x) = f(-x)$.
+- An __odd function__ is a function that is symmetric over the line $y=-x$. $f(x) = -f(-x)$
 
 ## Mapping
 

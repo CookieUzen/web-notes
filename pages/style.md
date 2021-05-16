@@ -9,30 +9,58 @@ permalink: /style/
 # Title
 ```
 
+---
+
 ## Subtitle
 ```
 ## Subtitle
 ```
+
+---
 
 ### Sub-subtitle
 ```
 ### Sub-subtitle
 ```
 
+---
+
 _Italics_
 ```
 _Italics_
 ```
+
+---
 
 __Bold__
 ```
 __Bold__
 ```
 
+---
+
+`highlight`
+
+```
+`highlight`
+```
+
+---
+
+	code snippet
+
+```
+	code snippet
+```
+
+---
+
 Inline equation: $y=mx+b$
 ```
 Inline equation: $y=mx+b$
 ```
+
+---
 
 Bullet Points:
 - 1
@@ -57,6 +85,16 @@ Bullet Points:
 		i. Three
 			- Four
 ```
+
+---
+
+Inline Equation: $e^{i\pi}+1=0$
+
+```
+Inline Equation: $e^{i\pi}+1=0$
+```
+
+---
 
 Display style equation:
 

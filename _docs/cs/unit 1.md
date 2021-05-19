@@ -234,3 +234,112 @@ There are several methods of providing automatic updates:
 - __Upgrades:__ contains new features
 - __Updates:__ improves the product in a minor way
 - __Releases:__ final working versions of a software
+
+# System Design Basics
+
+## Components of a Computer System
+
+A computer system is made up of several components:
+- __Hardware:__ physical elements
+- __Software:__ programs and instructions
+- __Peripheral Devices:__ auxiliary devices that can work with a computer (usb/screen)
+- __Computer Network:__ a group of computers connected together to share resources and data
+- __Human Resources:__ workers required in a computer system
+
+### Client and Server
+
+There are many types of computer in a computer system, they mostly follow under the category of `client` and `server`.
+- __Client:__ a computer that request and receive data on a network
+	* _Dumb Terminal_: terminal used for connecting to other computers
+	* _Thin Client:_ client with a certain amount of processing power, used similar to a dumb terminal
+- __Server:__ a computer that responds to requests and sends information to other computers on the network
+	* _Email Server:_ send and receive electronic mail
+	* _Domain Name System:_ record down domain names to ip address
+
+In a `Client-Server` network, clients are connected to a server.
+Where all the data and resources are stored on the server, the clients request the data from the server.
+
+In a `Peer to Peer` network, computers can be both clients and servers.
+Each computer send and requesting data.
+
+### Social and Ethical Issues
+
+As the use of IT become more and more common, there are more and more ethical and social issues rising.
+Below is a list of some issues to be careful of:
+- __Reliability:__ when IT systems fails, there may be serious consequences
+- __Integrity:__ if an IT system provides inaccurate data, there may be serious consequences
+- __Privacy:__ IT systems gather large amounts of personal data, this data have to be private
+- __Anonymity:__ Whether the privacy issues with IT system can reveal a person's identity
+- __Intellectual Property:__ does the development of IT make stealing IP easier? (copy and paste, pirated software/media)
+- __Security:__  if an IT system is unsecure, it may cause the issues above
+- __The Digital Divide and Equality of Access:__ does everyone around the world have the same access to IT?
+
+One must consider the social and ethical problems of IT before implementing a system.
+
+## System Design and Analysis
+
+### Stakeholders
+
+`Stakeholders` are people who are affected by an computer system.
+An `end-user` is a person who will use the computer system.
+Computer systems must be designed according to the needs of the stakeholders and the end-users.
+
+We can gather information on the stakeholders by direct observation, conducting interviews, and questionnaires.
+On the other hand, we can analyze existing systems or competing products.
+
+### System Requirements
+
+There are many system requirements to designing a computer system.
+
+It is often useful to determine the type of processing a computer system have to perform beforehand:
+- __Online Processing:__ interactive processing performed by a single processor
+- __Real Time Processing:__ Data processed and generated in real time, effect program as data change
+- __Batch Processing:__ groups of data are processed as a single unit
+
+Flow charts can describe the process of a computer program:
+**TODO**
+
+We can check if a proposed system matches the client's expectation by creating `prototypes`.
+Prototypes are a bare-bones, working version of the system for testing purposes.
+Prototypes can give the clients a general idea of what will the final system look like.
+
+Often times, a system will be redesigned many times.
+Each prototypes will refine the product, until it reaches the client's specification.
+Stakeholders may be involved in this process. 
+
+### Ethical Issues with Introducing a New System
+
+## Human Interaction with the System
+
+### Accessibility 
+
+`Accessibility` is many people can use a certain program. 
+A system with high accessibility means many people can use it.
+Often times, accessibility of computer systems also refer to if people with different physical and mental attributes can use it.
+For example, can a blind person use said software?
+
+Some methods of improving accessibility are:
+- text to speech
+- braille display
+- subtitles
+- large buttons
+
+### Usability
+
+`Usability` is how easy a program is to be used.
+Some common usability metrics are:
+- complexity of program
+- efficiency
+- effectiveness
+- errors
+- learn-ability
+- memorability
+- readability
+- satisfaction
+
+Some common usability issues are:
+- having a small screen
+- hard to click
+- too many buttons
+- too bright/dark
+- short battery life

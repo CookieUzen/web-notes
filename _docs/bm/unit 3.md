@@ -1,272 +1,226 @@
 ---
-title: Functions and Evolution of Human Resource Management
-description: Unit 2 of Business Management
+title: Finance and Accounts
+description: Unit 3 of Business Management
 ---
 
 # Sources of Finance
 
 ## The Role of Finance
 
-There are many things companies spend money on. This subsection will
-list some of the uses of finance.
+There are many things companies spend money on.
+This subsection will list some of the uses of finance.
 
-One of the most common source of expenditure is `Capital`. Capital
-investment is spending money on `fixed assets`, which are assets that
-are hard to sell. Generally, capital expenditures are used to fund long
-term goals, such as building facilities or buying machinery. Capital
-expenditures are often funded by long term sources of finance.
+One of the most common source of expenditure is `Capital`.
+Capital investment is spending money on `fixed assets`, which are assets that are hard to sell.
+Generally, `capital expenditures` are used to fund long term goals, such as building facilities or buying machinery.
+Capital expenditures are often funded by long term sources of finance.
 
-Revenue expenditure is spending money on general operation costs.
-Expenditures such as wages or rent. Revenue expenditures are often
-funded by short to medium term sources of finance. When a firm cannot
-pay its revenue expenditure, they go into a state of insolvency.
+`Revenue expenditure` is spending money on general operation costs, expenditures such as wages or rent.
+Revenue expenditures are often funded by short to medium term sources of finance.
+When a firm cannot pay its revenue expenditure, they go into a state of `insolvency` (unable to pay debts).
 
 ## Internal Source of Finance
 
-Internal sources of finance refers to money collected internally. Such
-as the sale of assets, retain profit, or personal funds.
+`Internal sources of finance` refers to money collected internally.
+Such as the sale of assets, retain profit, or personal funds.
 
-__Personal Funds__ is the money invested by the owners of the business
-
-__Retained Profit__ is profit leftover (after paying the bills) from end of a trading year
-
-__Sale of Assets__ is money gained from selling any assets
+Common sources of Internal Finance are:
+- __Personal Funds:__ money invested by the owners of the business 
+- __Retained Profit:__ leftover (after paying the bills) from end of a trading year 
+- __Sale of Assets:__ gained from selling any assets
 
 ## External Source of Finance
 
-Opposite to Internal Sources of Finance, External Sources of Finance is
-money gathered through outside means.
+Opposite to `Internal Sources of Finance`, `External Sources of Finance` is money gathered through outside means.
 
 ### Equity Finance
 
 Equity Finance is money gathered by selling ownership of the company.
 Equity does not come with any interest, or requirement of repayment.
-However, selling equity comes with the cost of losing control and
-dividends.
+However, selling equity comes with the cost of losing control and dividends.
 
-__Share Capital__ is money raised through selling shares.
-
-__Business Angel__ are wealthy investors, often buying a chunk of shares as investment.
-
-__Venture Capitalist__ are companies similar to Business Angels.
+- __Share Capital:__ money raised through selling shares. 
+- __Business Angel:__ wealthy investors, often buying a chunk of shares as investment. 
+- __Venture Capitalist:__ companies that perform a similar role as Business Angels.
 
 ### Debt Finance
 
-Debt finance is the method of borrowing money to acquire finance. Often times, borrowing money can quickly bring money for investment, but their
-is the cost of interest. Interest is additional money owed overtime as
-borrowed money is payed off.
+`Debt finance` is the method of borrowing money to acquire finance.
+Often times, borrowing money can quickly bring money for investment, but at a high cost of `interest`.
+Interest is additional money owed overtime as borrowed money is payed off.
 
-__Loan Capital__ are long term borrowing of money, often for the purchasing capital.
-    These loans require collateral in case there is a default on the
-    loan.
-
-__Overdrafts__ are a high cost, short term loan. It is when the company spend more
-    money that they have in their account, and have to pay back in high
-    interest.
-
-__Credit Cards__ are a method of borrowing money and paying back every month.
+- __Loan Capital:__ long term borrowing of money, often for the purchasing capital. These loans require collateral in case there is a default on the loan. 
+- __Overdrafts:__ high cost, short term loan. It is when the company spend more money that they have in their account, and have to pay back in high interest. 
+- __Credit Cards:__ a method of borrowing money and paying back every month.
 
 ### Financial Aid
 
-Financial Aid is money given to the companies for free. Generally, these
-come from NGOs or governments who want to support the business.
+Financial Aid is money given to the companies for free.
+Generally, these come from NGOs or governments who want to support the business.
 
-__Subsidies__ money given to the production of goods that is good for the society, often provided by the government
-
-__Grants__ are loans with no interest, and does not need to be paid back. There may be conditions on how the money is spent
+- __Subsidies:__ money given to the production of goods that is good for the society, often provided by the government 
+- __Grants:__ are loans with no interest, and does not need to be paid back. There may be conditions on how the money is spent
 
 ### Other Sources of Finance
 
-Other then the main sources of finance, there are others that does not
-fit the groups.
+Other then the main sources of finance, there are others that does not fit the groups.
 
-__Trade Credit__ is a method of paying for goods at a later date, without interest. Often provided to companies by companies.
-
-__Debt Factoring__ is the action of selling debt, to a debt factoring company. Often at a lower cost, but with an immediate payment.
-
-__Leasing__ is the action of leasing fixed assets instead of buying them. Flexible, but cost more in the long run.
+__Trade Credit:__ a method of paying for goods at a later date, without interest. Often provided to companies by companies. 
+__Debt Factoring:__ the action of selling debt, to a debt factoring company. Often at a lower cost, but with an immediate payment. 
+__Leasing:__ the action of leasing fixed assets instead of buying them. Flexible, but cost more in the long run.
 
 ## Short, Medium, and Long-Term Finance
 
-External sources of finance can be broken into 3 types according to
-their durations. Internal sources of finance can be fall into any of
-these categories.
+External sources of finance can be broken into 3 types according to their durations.
+Internal sources of finance can be fall into any of these categories.
 
 ### Short-Term
 
-Short-term finance are repaid within 12 months. These are normally used
-to solve cash flow problems or to pay for revenue expenditure.
+Short-term finance are repaid within 12 months.
+These are normally used to solve cash flow problems or to pay for revenue expenditure.
 Short-term finance is often expensive and have high interest.
 
 Below is a list of short term finances: 
--   Overdraft 
--   Trade Credit 
--   Debt Factoring 
--   Leasing 
--   Subsidies
+- Overdraft 
+- Trade Credit 
+- Debt Factoring 
+- Leasing 
+- Subsidies
 
 ### Medium-Term
 
 Medium-term finance last longer than 12 months, but less than 5 year.
-These are normally used for buying fixed assets or capital. Medium term
-finance is in-between of short and long term finance.
+These are normally used for buying fixed assets or capital.
+Medium term finance is in-between of short and long term finance.
 
 Below is a list of medium term finances: 
--   Loan Capital 
--   Leasing 
--   Subsidies
+- Loan Capital 
+- Leasing 
+- Subsidies
 
 ### Long-Term
 
-Long term finance last longer than 5 years. Mortgages and all equity
-finance belong in this category.
+Long term finance last longer than 5 years. Mortgages and all equity finance belong in this category.
 
 Below is a list of long term finance: 
--   Share Capital 
--   Venture Capital 
--   Business Angel 
--   Loan Capital 
--   Grants
+- Share Capital 
+- Venture Capital 
+- Business Angel 
+- Loan Capital 
+- Grants
 
 ## Evaluation of Sources of Finance
 
-Often times, companies have to make decision on which source of finance
-to choose. Different methods of finance have different purposes, with
-different opportunity cost and effectiveness.
+Often times, companies have to make decision on which source of finance to choose.
+Different methods of finance have different purposes, with different opportunity cost and effectiveness.
 
-There is three general idea for choosing sources of finance, `gearing`,
-`purpose`, and `ownership`.
+There is three general idea for choosing sources of finance, `gearing`, `purpose`, and `ownership`.
 
 ### Gearing
 
 *This will be further explained in 3.6, Efficiency Ratio Analysis.*
 
-Gearing ratio calculates the percentage of loan capital versus the total
-capital of the business. Having a high gearing ratio makes the company
-risky in case they default on their loans. However, having a high
-gearing ratio lowers the amount of ownership that needs to be split.
+Gearing ratio calculates the percentage of loan capital versus the total capital of the business.
+Having a high gearing ratio makes the company risky in case they default on their loans.
+However, having a high gearing ratio lowers the amount of ownership that needs to be split.
 
 ### Purpose
 
-Consider the purpose of the funds when gathering finance. Determine if
-the source of finance falls into short, medium, or long term groups.
+Consider the purpose of the funds when gathering finance. Determine if the source of finance falls into short, medium, or long term groups.
 
 ### Ownership
 
-Different companies have access to different kinds of finance. Sole
-traders and Partnerships have access to mostly internal sources of
-finance. They can also take loans and use trade credit. Bigger
-corporation generally cannot use personal funds, but can take advantage
-of equity for financing.
+Different companies have access to different kinds of finance.
+Sole traders and Partnerships have access to mostly internal sources of finance.
+They can also take loans and use trade credit.
+Bigger corporation generally cannot use personal funds, but can take advantage of equity for financing.
 
 # Cost and Revenue
 
-In order for a business to make money, its revenue must be larger than
-its cost. In this section, we will discuss the different cost and
-revenue of a company.
+In order for a business to make money, its revenue must be larger than its cost.
+In this section, we will discuss the different cost and revenue of a company.
 
 ## Classification of Costs
 
-Cost can be split up into two major categories, Fixed Cost and Variable
-Costs.
+Cost can be split up into two major categories, `Fixed Cost` and `Variable Costs`.
 
 ### Variable Cost
 
-Variable cost is cost that change directly due to production. These
-include material and labor used for production.
+Variable cost is cost that change directly due to production. These include material and labor used for production.
 
 ### Fixed Costs
 
-Fixed cost is cost that is not effected directly with production. For
-example, electricity bills remain relatively constant no matter the
-amount produced. Although electrify is required to make the product, it
-is not effected directly by the amount produced.
-
+Fixed cost is cost that is not effected directly with production.
+For example, electricity bills remain relatively constant no matter the amount produced.
+Although electrify is required to make the product, it is not effected directly by the amount produced.
 Other fixed costs include rent, salaries, capital.
 
 ## Direct and Indirect Costs
 
-Costs can also be clarified into direct and indirect costs. Direct costs
-are those that directly impact the good and service a company produces.
-For example, raw material is a direct cost, but coffee machine refills
-are an indirect cost.
-
-Examples of direct costs are salary or utility, while examples indirect
-costs are infrastructure cost and advertising.
+Costs can also be clarified into `Direct Costs` and `Indirect Costs`.
+Direct costs are those that directly impact the good and service a company produces.
+For example, raw material is a direct cost, but coffee machine refills are an indirect cost.
+Examples of direct costs are salary or utility, while examples indirect costs are infrastructure cost and advertising.
 
 # Revenue and Revenue Streams
 
-Revenue is the money earned from the selling of goods and services. It
-is different than profit, in that profit is revenue minus cost. Simply,
-revenue can be calculated by the selling price of a product times the
-amount sold.
+`Revenue` is the money earned from the selling of goods and services.
+It is different than profit, in that profit is revenue minus cost.
+Simply, revenue can be calculated by the selling price of a product times the amount sold.
 
-Revenue streams are methods of generating revenue. Many companies do not
-earn money from one source. For example, a movie theater do not earn
-money just from selling tickets, but also food and drinks. Or newspapers
-that do not earn money just from selling newspapers, but also from
-advertisements.
+`Revenue streams` are methods of generating revenue.
+Many companies do not earn money from just one source.
+For example, a movie theater do not earn money just from selling tickets, but also food and drinks.
+Or newspapers that do not earn money just from selling newspapers, but also from advertisements.
 
 # Break-Even Analysis
 
-In order to maintain a health revenue and cost relationships, many
-companies use break even analysis plan ahead. Break even analysis allows
-a company to find how much it need to sell in order to `break even`
-(profit is greater than zero).
+In order to maintain a health revenue and cost relationships, many companies use `break even analysis` to plan ahead.
+Break even analysis allows a company to find how much it need to sell in order to _break even_ (profit is greater than zero).
 
 ## Calculating the Break-Even Point
 
 There are several units used in the calculation that have to be noted.
 
-__Fixed Cost__ is cost not effected by change of production
-
-__Variable Cost__ is cost directly effected by change of production
-
-__Contribution per Unit__ is the price per unit minus the variable cost per unit
-
-__Break Even Point__ is the unit of product sold that the total profit is zero
-
-__Margin of Safety__ is the difference between the current unit sold and the break even point
+- __Fixed Cost:__ cost not effected by change of production 
+- __Variable Cost:__ cost directly effected by change of production 
+- __Contribution per Unit:__ the price per unit minus the variable cost per unit 
+- __Break Even Point:__ the unit of product sold that the total profit is zero 
+- __Margin of Safety:__ the difference between the current unit sold and the break even point
 
 The break even point can be calculated using the following equation:
-$$\begin{aligned}\frac{\textrm{Fixed Costs}}{\textrm{Contribution per Unit}}\end{aligned}$$
+$$\frac{\textrm{Fixed Costs}}{\textrm{Contribution per Unit}}$$
 
 ## Break-Even Charts
 
-Break even chart shows the break even point against unit sold and
-profit. The x axis is output, or the amount sold. The y axis is revenue
-and cost.
+Break even chart shows the break even point against unit sold and profit.
+The $x$ axis is output, or the amount sold. The $y$ axis is revenue and cost.
 
-There are three lines. The first line is the Fixed Cost, which is a
-parallel line with equation $y=t\texttt{fixed cost}$. The second line is
-the Total Cost, which starts at the fixed cost, and increase over time.
-It's equation is
-$y = \texttt{variable cost per unit} \cdot x + \texttt{fixed cost}$. The
-last line is the Total Revenue, which starts at zero. It has the
-equation $y = \texttt{contributions per unit} \cdot x$
+There are three lines.
+The first line is the `Fixed Cost`, which is a parallel line with equation $y=\texttt{fixed cost}$.
+The second line is the `Total Cost`, which starts at the fixed cost, and increase over time.
+It's equation is $y = \texttt{variable cost per unit} \cdot x + \texttt{fixed cost}$.
+The last line is the Total Revenue, which starts at zero.
+It has the equation $y = \texttt{contributions per unit} \cdot x$
 
-The point at which Total Revenue intersects Total cost is the break even
-point. Draw a line from the Break even point to the x axis. The
-difference between the break even point and the actual output is the
-margin of safety.
+The point at which `Total Revenue` intersects `Total Cost` is the break even point.
+Draw a line from the Break even point to the $x$ axis.
+The difference between the break even point and the actual output is the margin of safety.
 
 ## Evaluation of Break-Even Analysis
 
-Break even analysis is easy to use, and show the important information
-that keeps the company alive. A company can use break even analysis
-predict how changes in production can change the profit levels. However,
-break even analysis is not very accurate. It ignores a companies'
-inventory and economies of scale. It assumes all products are sold at
-the same price.
+Break even analysis is easy to use, and show the important information that keeps the company alive.
+A company can use break even analysis predict how changes in production can change the profit levels.
+However, break even analysis is not very accurate.
+It ignores a companies' inventory and economies of scale. It assumes all products are sold at the same price.
 
 # Final Accounts
 
-In order for business to understand what is going on in their company,
-they often gather data to create a final account. A final account
-provides insight into the finance of the company overall. Final accounts
-are created periodically, often at the end of a business year. However,
-note that final account only accounts for the business at their current
-state. What happens in the future is not factored in.
+In order for business to understand what is going on in their company, they often gather data to create a final account.
+A final account provides insight into the finance of the company overall.
+Final accounts are created periodically, often at the end of a business year.
+However, note that final account only accounts for the business at their current state.
+What happens in the future is not factored in.
 
 ## Purpose of Final Account to Stakeholders
 

@@ -224,57 +224,55 @@ What happens in the future is not factored in.
 
 ## Purpose of Final Account to Stakeholders
 
-Internal stakeholders often look to final accounts for information about
-the company's health. Management might look at the final account for
-planning and organizing. While employees might look at a final account
-to see the financial stability of a company.
+Internal stakeholders often look to final accounts for information about the company's health.
+Management might look at the final account for planning and organizing.
+While employees might look at a final account to see the financial stability of a company.
 
 External stakeholders look at the final accounts for different reasons.
-The government may look into the final accounts to make sure the company
-is following regulations and paying taxes. Competitors may look into the
-final accounts to compare profits and financial strength.
+The government may look into the final accounts to make sure the company is following regulations and paying taxes.
+Competitors may look into the final accounts to compare profits and financial strength.
 
 ## Ethics in Accounting
 
 ## Profit and Loss Account
 
--   Sales Revenue 
--   Cost of Good Sold 
--   Gross Profit 
--   Expenses 
--   Total Expense 
--   Net Profit before Interest and Tax 
--   Interest 
--   Net Profit before Tax 
--   Tax 
--   Net Profit After Interest and Tax 
--   Dividends 
--   Retained Profit
+- Sales Revenue 
+- Cost of Good Sold 
+- Gross Profit 
+- Expenses 
+- Total Expense 
+- Net Profit before Interest and Tax 
+- Interest 
+- Net Profit before Tax 
+- Tax 
+- Net Profit After Interest and Tax 
+- Dividends 
+- Retained Profit
 
 ## Balance Sheet
 
--   Fixed Assets 
-    -   Fixed Assets 
-    -   Accumulated Depreciation 
-    -   Net Fixed Assets 
--   Current Assets 
-    -   Cash 
-    -   Debtors 
-    -   Stock 
-    -   Total Current Assets 
--   Current Liabilities 
-    -   Overdraft 
-    -   Creditors 
-    -   Short Term Loans 
-    -   Total Current Liabilities 
-    -   Net Current Assets 
-    -   Total Assets less Current Liabilities 
--   Long Term Liabilities (Debt) 
-    -   Long-Term Loans 
-    -   Mortgage 
-    -   Total Long-Term Liabilities 
-    -   Net Assets 
-    -   Equity
+- Fixed Assets 
+  - Fixed Assets 
+  - Accumulated Depreciation 
+  - Net Fixed Assets 
+- Current Assets 
+  - Cash 
+  - Debtors 
+  - Stock 
+  - Total Current Assets 
+- Current Liabilities 
+  - Overdraft 
+  - Creditors 
+  - Short Term Loans 
+  - Total Current Liabilities 
+  - Net Current Assets 
+  - Total Assets less Current Liabilities 
+- Long Term Liabilities (Debt) 
+  - Long-Term Loans 
+  - Mortgage 
+  - Total Long-Term Liabilities 
+  - Net Assets 
+  - Equity
 
 ## Figures
 
@@ -284,135 +282,119 @@ final accounts to compare profits and financial strength.
 
 ## Intangible Assets
 
-Although we can calculate a value for most assets, some assets have
-intangible value.
+Although we can calculate a value for most assets, some assets have intangible value.
 
-__Patents__ are legal protection that protects an invention for a set number of years.
-
-__Copyright__ are similar to patents, but for artistic works
-
-__Brand__ is the brand image of a company
-
-__Registered Trademark__ is a distinctive symbol of the company.
-
-__Goodwill__ is the difference between the purchasing price of a company and its net assets
+- __Patents:__ legal protection that protects an invention for a set number of years. 
+- __Copyright:__ similar to patents, but for artistic works 
+- __Brand:__ the brand image of a company 
+- __Registered Trademark:__ a distinctive symbol of the company. 
+- __Goodwill:__ the difference between the purchasing price of a company and its net assets
 
 ## Depreciation
 
-Over time, fixed assets decrease in value. It is often hard to sell
-something at the same value as you bought it, especially after a few
-years.
+Over time, fixed assets decrease in value. It is often hard to sell something at the same value as you bought it, especially after a few years.
 
 ### Causes of Depreciation
 
-Often times, depreciation is caused by wear and tear. Capital such as
-factories or equipment will get older over time, be prone to breaking.
+Often times, depreciation is caused by wear and tear.
+Capital such as factories or equipment will get older over time, be prone to breaking.
 This decrease the value of the fixed asset.
 
-Another cause is obsolescence. This happens when newer technology
-arrives, and render the current product outdated. In this case, the
-fixed asset will also decrease in value.
+Another cause is obsolescence.
+This happens when newer technology arrives, and render the current product outdated.
+In this case, the fixed asset will also decrease in value.
 
 ### Calculating Depreciation
 
-IB supports two methods of calculations depreciation: The Straight Line
-method and Reducing Balance method.
+IB supports two methods of calculations depreciation: `The Straight Line` method and `Reducing Balance` method.
 
-The straight line method assumes the asset decrease in value at a fixed
-rate. Use this equation to calculate the decrease in value per unit of
-time.
-$$\begin{aligned}\textrm{Depreciation per unit of time} = \frac{\textrm{Purchase Price} - \textrm{Residual Value}}{\textrm{Estimated useful life}}\end{aligned}$$
+The straight line method assumes the asset decrease in value at a fixed rate.
+Use this equation to calculate the decrease in value per unit of time.
 
-The Reducing Balance method assumes the asset reduce in value by a
-percent of its value.
+$$\textrm{Depreciation per unit of time} = \frac{\textrm{Purchase Price} - \textrm{Residual Value}}{\textrm{Estimated useful life}}$$
 
-The straight line method is easier to calculate, and easy to plan
-around. However, it is not as accurate as the reducing balance method.
+The reducing balance method assumes the asset reduce in value by a percent of its value.
+
+The straight line method is easier to calculate, and easy to plan around.
+However, it is not as accurate as the reducing balance method.
 
 # Profitability and Liquidity Ratio Analysis
 
 ## Profitability and Efficiency Ratio
 
-Profitably ratios measures how efficient a company can use its resources
-to make money.
+Profitably ratios measures how efficient a company can use its resources to make money.
 
 ### Gross Profit Margin (GPM)
 
-GPM is a measure of how profitable the core business activities are. It
-is calculate with the following equation:
-$$\begin{aligned}GPM = \frac{\textrm{Gross Profit}}{\textrm{Sales Revenue}} \times 100\%\end{aligned}$$
+GPM is a measure of how profitable the core business activities are.
+It is calculate with the following equation:
 
-The higher the ratio, the more the business earn from is revenue. There
-is no good ratio, as different companies have different ideal ratios.
-Restaurants, for example, generally have lower GPM ratios while tech
-based companies have higher GPM ratios.
+$$GPM = \frac{\textrm{Gross Profit}}{\textrm{Sales Revenue}} \times 100\%$$
 
-In order to improve GPM, one can change the price of the product. The
-higher the price the more the company can earn per product. However, be
-aware that changing the price can also effect the amount sold. A company
-can also look to reducing cost.
+The higher the ratio, the more the business earn from is revenue.
+There is no good ratio, as different companies have different ideal ratios.
+Restaurants, for example, generally have lower GPM ratios while tech based companies have higher GPM ratios.
+
+In order to improve GPM, one can change the price of the product.
+The higher the price the more the company can earn per product.
+However, be aware that changing the price can also effect the amount sold.
+A company can also look to reducing cost.
 
 ### Net Profit Margin (NPM)
 
-Net Profit Margin shows net profit as a percentage of sales revenue.
-Similar to GPM, but factor into fixed costs. Calculate NPM with the
-following equation:
-$$\begin{aligned}NPM = \frac{\textrm{Net profit before interest and tax}}{\textrm{Sales revenue}} \times 100\%\end{aligned}$$
+Net Profit Margin shows net profit as a percentage of sales revenue. Similar to GPM, but factor into fixed costs. Calculate NPM with the following equation:
 
-The higher the ratio, the better the company is at managing overhead
-costs.
+$$NPM = \frac{\textrm{Net profit before interest and tax}}{\textrm{Sales revenue}} \times 100\%$$
 
-You can increase NPM Similar to GPM, but additionally decrease operation
-costs.
+The higher the ratio, the better the company is at managing overhead costs.
+
+You can increase NPM Similar to GPM, but additionally decrease operation costs.
 
 ### Return On Capital Employed (ROCE)
 
-Return On Capital Employed measures how well a company can make money
-from capital. Use the following equation to calculate ROCE.
-$$\begin{aligned}ROCE = \frac{\textrm{Net profit before interest and tax}}{\textrm{Capital Employed}} \times 100\%\end{aligned}$$
+Return On Capital Employed measures how well a company can make money from capital. Use the following equation to calculate ROCE.
+
+$$ROCE = \frac{\textrm{Net profit before interest and tax}}{\textrm{Capital Employed}} \times 100\%$$
+
 In which `Capital Employed` can be calculated with the equation below:
-$$\begin{aligned}\textrm{Capital Employed} = \texttt{Long Term Liabilities} + \texttt{Share Capital} + \texttt{Retained Profits}\end{aligned}$$
 
-The higher ROCE is, the better the company is at making money from
-capital. Note that if ROCE is lower than the interest rate of a
-risk-free saving account, then a company is often not worth investing
-into.
+$$\textrm{Capital Employed} = \texttt{Long Term Liabilities} + \texttt{Share Capital} + \texttt{Retained Profits}$$
 
-In order to increase ROCE, a company can increase NPM. They can also
-reduce long term liabilities.
+The higher ROCE is, the better the company is at making money from capital.
+Note that if ROCE is lower than the interest rate of a risk-free saving account, then a company is often not worth investing into.
+
+In order to increase ROCE, a company can increase NPM.
+They can also reduce long term liabilities.
 
 ## Liquidity Ratios
 
-Liquidity ratio measures how well can a company sell its assets. They
-can measure how well can a company pay off short term debts.
+Liquidity ratio measures how well can a company sell its assets.
+They can measure how well can a company pay off short term debts.
 
 ### Current Ratio
 
-Current ratio measures how much a company own compared to how much they
-owe. Calculate the current ratio with the equation below:
-$$\begin{aligned}\texttt{Current Ratio} = \frac{\textrm{Current Assets}}{\textrm{Current Liabilities}}\end{aligned}$$
+Current ratio measures how much a company own compared to how much they owe.
+Calculate the current ratio with the equation below:
 
-The higher the ratio, the healthier the company's total assets. Note,
-companies want their current ratio to be above 1, as dropping below 1
-means they do not have enough assets to pay off their debts. However, if
-the current ratio is too high, then the company is at risk of wasting
-the money accumulated. Different types of business have different
-current ratios. For example, if a company have a steady cash flow, it is
-not as worried about gathering money to pay debts, and can live with a
-lower current ratio.
+$$\texttt{Current Ratio} = \frac{\textrm{Current Assets}}{\textrm{Current Liabilities}}$$
 
-To improve the current ratio, a company can reduce its current
-liabilities. They can also increase their credit system and sell unused
-fixed assets. Decreasing overheads and negotiating for longer payment
-terms can also improve the current ratio.
+The higher the ratio, the healthier the company's total assets.
+Note, companies want their current ratio to be above 1, as dropping below 1 means they do not have enough assets to pay off their debts.
+However, if the current ratio is too high, then the company is at risk of wasting the money accumulated.
+Different types of business have different current ratios.
+For example, if a company have a steady cash flow, it is not as worried about gathering money to pay debts, and can live with a lower current ratio.
+
+To improve the current ratio, a company can reduce its current liabilities.
+They can also increase their credit system and sell unused fixed assets.
+Decreasing overheads and negotiating for longer payment terms can also improve the current ratio.
 
 ### Acid Test Ratio
 
-Acid Test Ratio measures a more severe indicator of a firm's ability to
-pay off short term debt, similar to the Current Ratio. Stocks is
-subtracted from current asset, as it is not as liquid. Use the equation
-below to calculate the Acid Test Ratio:
-$$\begin{aligned}\texttt{Acid Test Ratio} = \frac{\textrm{Current Assets} - \textrm{Stock}}{\textrm{Current Liabilities}}\end{aligned}$$
+Acid Test Ratio measures a more severe indicator of a firm's ability to pay off short term debt, similar to the Current Ratio.
+Stocks is subtracted from current asset, as it is not as liquid.
+Use the equation below to calculate the Acid Test Ratio:
+
+$$\texttt{Acid Test Ratio} = \frac{\textrm{Current Assets} - \textrm{Stock}}{\textrm{Current Liabilities}}$$
 
 Evaluate this ratio similar to the current ratio.
 
@@ -421,59 +403,52 @@ They can also increase sales, which can turn stock into current assets.
 
 # Efficiency Ratio Analysis
 
-In this section, we will continue to look at ratios. This section
-focuses on ratios that improve a company's efficiency.
+In this section, we will continue to look at ratios.
+This section focuses on ratios that improve a company's efficiency.
 
 ### Stock Turnover Ratio
 
-The Stock Turnover Ratio measures frequent a company have to replenish
-its stocks. The more frequent, the company is better at converting
-stocks into sales. Use the equation below the calculate the Stock
-Turnover Ratio.
-$$\begin{aligned}\texttt{Stock Turnover Ratio} = \frac{\textrm{Cost of Goods Sold}}{\textrm{Average Stock}}\end{aligned}$$
+The Stock Turnover Ratio measures frequent a company have to replenish its stocks.
+The more frequent, the company is better at converting stocks into sales.
+Use the equation below the calculate the Stock Turnover Ratio.
 
-The higher the Stock Turnover Ratio, the better the company is at
-turning stock into sales. Note, Stock Turnover Ratio does not apply to
-every company, especially companies that sell services.
+$$\texttt{Stock Turnover Ratio} = \frac{\textrm{Cost of Goods Sold}}{\textrm{Average Stock}}$$
+
+The higher the Stock Turnover Ratio, the better the company is at turning stock into sales.
+Note, Stock Turnover Ratio does not apply to every company, especially companies that sell services.
 
 Companies can improve this ratio by: 
--   Lowering price 
--   Increasing promotions 
--   Stocking fast selling items 
--   Buy stocks *just in time* 
--   Use better sales forecast
+- Lowering price 
+- Increasing promotions 
+- Stocking fast selling items 
+- Buy stocks *just in time* 
+- Use better sales forecast
 
 ### Debtor Days
 
-Debtor days measures how well a company can collect its debt. Use the
-equation below to calculate Debtor Days:
-$$\begin{aligned}\texttt{Debtor Days} = \frac{\textrm{Debtors}}{\textrm{Total Sale Revenue}} \times 365\end{aligned}$$
+Debtor days measures how well a company can collect its debt. Use the equation below to calculate Debtor Days:
+
+$$\texttt{Debtor Days} = \frac{\textrm{Debtors}}{\textrm{Total Sale Revenue}} \times 365$$
 
 Companies can increase Debtor Days by improving credit control.
 
 ### Creditor Days
 
-Creditor Days measures the number of days a company settle its debts.
-Similar to Debtor Days, but for the company's debts. Use the equation
-below to calculate Creditor Days:
-$$\begin{aligned}\texttt{Debtor Days} = \frac{\textrm{Creditors}}{\textrm{Cost of Goods Sold}} \times 365\end{aligned}$$
+Creditor Days measures the number of days a company settle its debts. Similar to Debtor Days, but for the company's debts. Use the equation below to calculate Creditor Days:
 
-Companies can improve creditor days but having a good stock control
-system, and having good relations with suppliers.
+$$\texttt{Debtor Days} = \frac{\textrm{Creditors}}{\textrm{Cost of Goods Sold}} \times 365$$
+
+Companies can improve creditor days but having a good stock control system, and having good relations with suppliers.
 
 ### Gearing Ratio
 
-Gearing Ratio measures how much of a company's capital is funded by long
-term debt. A normal gearing ratio would be between $25\%$ to $50\%$. The
-higher the gearing ratio, the less control a company would have over
-itself. Also, interest and dividend will be higher with a higher gearing
-ratio.
+Gearing Ratio measures how much of a company's capital is funded by long term debt. A normal gearing ratio would be between $25\%$ to $50\%$. The higher the gearing ratio, the less control a company would have over itself. Also, interest and dividend will be higher with a higher gearing ratio.
 
 Calculate the gearing ratio with the equation below:
-$$\begin{aligned}\texttt{Gearing Ratio} = \frac{\textrm{Loan Capital}}{\textrm{Capital Employed}} \times 100\%\end{aligned}$$
 
-To improve the gearing ratio, a company can increase retained profit.
-They can also pay up long term loans or swap debt for equity.
+$$\texttt{Gearing Ratio} = \frac{\textrm{Loan Capital}}{\textrm{Capital Employed}} \times 100\%$$
+
+To improve the gearing ratio, a company can increase retained profit. They can also pay up long term loans or swap debt for equity.
 
 # Cash flow
 

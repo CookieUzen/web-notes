@@ -56,5 +56,8 @@ You can then open your browser to [http://localhost:4000/web-notes](http://local
 - [ ] Subjects
 	- [ ] Physics
 	- [ ] CS
+		- [ ] Unit 2 Logic Gates TODOs
 	- [ ] Math
 	- [ ] Business Management
+		- [ ] Unit 2 Ethics
+		- [ ] Unit 2 Structrue

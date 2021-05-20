@@ -16,6 +16,7 @@ You can clone the repository right to where you want to host the docs:
 ```bash
 git clone https://github.com/cookieuzen/web-notes.git
 ```
+
 ### 2.0 Install Dependencies
 
 Ruby is required for jekyll. 
@@ -29,6 +30,12 @@ bundle install # run inside the repository
 
 You can install gem with your operating system's package manager.
 
+### 2.1 Ruby Version
+
+Github Pages uses ruby version `2.7`.
+In order avoid compatibility issues, this project uses ruby version `2.7.2`.
+Use a ruby version manager to install `2.7.2` if you do not have it [rvm](https://rvm.io).
+
 ### 2. Serve
 
 You can compile the site locally by running `jekyll serve`.
@@ -39,3 +46,18 @@ bundle exec jekyll serve
 ```
 
 You can then open your browser to [http://localhost:4000/web-notes](http://localhost:4000/web-notes) to see site locally.
+
+# TODO
+- [ ] CSS
+	- [ ] modify heading/subtitles
+	- [ ] add highlight syntax
+- [ ] Organization
+	- [ ] table of content front page (liquid/javascipt?)
+- [ ] Subjects
+	- [ ] Physics
+	- [ ] CS
+		- [ ] Unit 2 Logic Gates TODOs
+	- [ ] Math
+	- [ ] Business Management
+		- [ ] Unit 2 Ethics
+		- [ ] Unit 2 Structrue

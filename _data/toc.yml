@@ -35,6 +35,8 @@
           url: "docs/math/AA/unit 1"
         - title: Functions
           url: "docs/math/AA/unit 2"
+        - title: Complex Numbers
+          url: "docs/math/AA/unit 3"
         - title: Logs and Exponents
           url: "docs/math/AA/exp logs"
     - title: "Computer Science"

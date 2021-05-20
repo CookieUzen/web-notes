@@ -9,7 +9,7 @@ __Land | Labour | Capital | Enterprise__
 #### ___Outputs___:
 Goods or Services produced by a business
 
-#### ___Processes:
+#### ___Processes___:
 (_Value Added to Raw Material_)
 Manufacturing, food processing, construction, etc. 
 

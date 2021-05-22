@@ -452,6 +452,225 @@ To improve the gearing ratio, a company can increase retained profit. They can a
 
 # Cash flow
 
+`Cash Flow` measure the amount of cash entering and leaving a company.
+In order for a company to survive, they have to keep a positive cash flow.
+In fact, making a profit does not always equate to having a positive cash flow.
+This section will go through measuring and planning for cash flow.
+
+## Profit and Cash Flow
+
+While profit is sales revenue minus total cost, cash flow is `cash inflow` minus `cash outflow`.
+Cash inflow refers to any money received by a company, while cash outflow refer to any money spent by a company.
+Revenue is a cash inflow, while cost is a cash outflow.
+
+However, even if a company have a positive profit, they might still have poor `cash flow` (more net negative cash flow).
+This can be caused by:
+- __overstocking:__ too much stock will increase cash outflow
+- __poor pricing strategy:__ inadequate cash inflow
+- __high expenses:__ high cash inflow
+- __over trading:__ too much outflow, little inflow
+- __seasonal demands:__ little inflow
+
+## Working Capital Cycle
+
+`Working capital` is the `current asset` minus the `current liability`.
+When the working capital become negative, the company will be unable to pay for its liabilities.
+
+The `Working Capital Cycle` measures the time it takes for a company turn bought stock to cash.
+The steps of the Working Capital Cycle is:
+1. Cash
+2. Creditors
+3. Inventory
+4. Debtors
+
+If the working capital cycle is too long, a company may have cash flow issues.
+Buying on credit or selling on credit may increase the cycle.
+
+## Cash Flow Forecast
+
+A `Cash Flow Forecast` shows a forecast cash flow for the next few months/years.
+It has four major rows:
+1. opening balance
+2. cash inflow
+3. cash outflow
+4. net cash flow
+5. closing balance
+
+Below is an sample cash flow forecast:
+
+| January               | February   | March    | April    | May        | June      | 6        |
+| --------------------- | ---------- | -------- | -------- | ---------- | --------- | -------- |
+| __Opening balance__   | 3,000      | 4,000    | 7,000    | 10,500     | 9,000     | 7,000    |
+| __Cash inflows__      |            |          |          |            |           |          |
+| Cash sales revenue    | 15,000     | 20,000   | 23,000   | 27,000     | 27,000    | 34,000   |
+| Debtor payments       | 4,000      | 3,000    | 3,000    | 4,000      | 6,000     | 5,000    |
+| Other income          | 0          | 2,000    | 0        | 1,000      | 0         | 0        |
+| _Total cash inflows_  | 19,000     | 25,000   | 26,000   | 32,000     | 33,000    | 39,000   |
+| __Cash outflows__     |            |          |          |            |           |          |
+| Peanuts               | 5,000      | 8,000    | 8,000    | 11,000     | 12,000    | 12,000   |
+| Packaging             | 1,000      | 1,500    | 1,500    | 2,500      | 4,000     | 4,000    |
+| Rent                  | 2,000      | 2,000    | 2,000    | 2,000      | 2,000     | 2,000    |
+| Wages                 | 6,000      | 6,000    | 6,000    | 8,000      | 8,000     | 8,000    |
+| Suppliers             | 2,500      | 3,000    | 3,500    | 7,000      | 6,000     | 6,000    |
+| Utilities             | 1,500      | 1,500    | 1,500    | 3,000      | 3,000     | 3,000    |
+| _Total cash outflows_ | 18,000     | 22,000   | 22,500   | 33,500     | 35,000    | 35,000   |
+| __Net cash flow__     | 1,000      | 3,000    | 3,500    | (1,500)*   | (2,000)   | 4,000    |
+| __Closing balance__   | 4,000      | 7,000    | 10,500   | 9,000      | 7,000     | 11,000   |
+
+You can denote a negative number by putting it in `(brackets)`.
+
+Cash flow forecasts can help with business with taking account of future spending.
+It can also help companies spot hard where they will have a lack of money and when they will earning a lot.
+
+## Dealing with Cash Flow Problems
+
+To improve Cash Flow, we can either increase cash inflow or decrease cash outflow.
+
+### Increase Cash Inflow
+
+- __Effective Debt Collect:__ make sure that money earned is recieved
+- __Cash Transaction only:__ same as above
+- __Increase Promotion:__ increase revenue/cash inflow
+- __Expanding Product Portfolio:__ decrease risks due to varying demand
+
+### Reducing Cash Outflow
+
+- __Better Stock Management:__ decrease excess stock
+- __Renegotiate Credit Terms:__ increase time before paying, allowing better control over outflow
+- __Reduce Expenses:__ decrease outflow
+- __Leasing:__ reduce spikes in outflow (from buying capital)
+
+### Finding Other Sources of Finance
+
+If a company is having a hard time, they can look to other sources of finance for short term and long term funding.
+
+### Limitations of Cash Flow Forecasting
+
+Cash flow forecasting is only as accurate as the data provided.
+Forecasting in general is also hard to perform, especially without information on competitors or changes in the market.
+Unexpected events such as sudden breakdown in machinery can result in a deviation from the forecast.
+
 # Investment Appraisal
 
+When considering an investment, it is best to evaluate the investment.
+We can measure this with 3 major factors:
+- Payback Period
+- Average Rate of Return (ARR)
+- Net Present Value (NPV)
+
+## Payback Period
+
+Payback period is the amount of time it will take for the investment to repay itself.
+Payback period is calculated by calculating cash flow.
+The cost of the investment is the cash outflow, and the money earned by the investment is the cash inflow.
+When the net cash flows is equal zero, the investment would have payed back itself.
+
+This can be done easier with a cash flow forecast table:
+
+| Year | Cash inflow | Cash outflow | Net cash flow | Cumulative net flow |
+|------|-------------|--------------|---------------|---------------------|
+| 0    | $0          | $200,000     | -$200,000     | -$200,000           |
+| 1    | $80,000     | $20,000      | $60,000       | -$140,000           |
+| 2    | $140,000    | $60,000      | $80,000       | -$60,000            |
+| 3    | $240,000    | $120,000     | $120,000      | $60,000             |
+| 4    | $360,000    | $200,000     | $160,000      | $220,000            |
+
+`Cumulative Net Flow` is the net cash flow added together since the first year.
+
+To find the exact payback period in the year, use this equation:
+
+$$\texttt{Payback Period} = \frac{\textrm{Amount left to pay}}{\textrm{Net cash flow in that year}} \times 12\;\textrm{months}$$
+
+## Average Rate of Return
+
+ARR measures the percent money earned from the investment each year.
+Use this equation to find ARR:
+
+$$(\textrm{Total Returns} - \textrm{Capital Cost}) \div \textrm{Years of Use} \div \textrm{Capital Cost} \times 100\%$$
+
+Having a higher rate of ARR means the investment earns more money percent wise.
+We can use this value to compare to other investment, to see which one earns more.
+It is important to know that normally a higher ARR means a higher risk.
+If an investment have a lower ARR than interest, than its often times not worth the investment, since interest from the bank is a safer.
+
+## Net Present Value
+
+NPV accounts for depreciation for the net cash flow.
+It is calculated using a provided table of `Discount Rates`.
+
+__Table of Discount Rate__
+| Year | Discount rate |        |        |        |        |
+|------|:-------------:|:------:|:------:|:------:|:------:|
+|      | 4%            | 6%     | 8%     | 10%    | 20%    |
+| 1    | 0.9615        | 0.9434 | 0.9259 | 0.9091 | 0.8333 |
+| 2    | 0.9246        | 0.89   | 0.8573 | 0.8264 | 0.6944 |
+| 3    | 0.889         | 0.8396 | 0.7938 | 0.7513 | 0.5787 |
+| 4    | 0.8548        | 0.7921 | 0.735  | 0.683  | 0.4823 |
+| 5    | 0.8219        | 0.7473 | 0.6806 | 0.6209 | 0.4019 |
+| 6    | 0.7903        | 0.705  | 0.6302 | 0.5645 | 0.3349 |
+| 7    | 0.7599        | 0.6651 | 0.5835 | 0.5132 | 0.2791 |
+| 8    | 0.7307        | 0.6271 | 0.5403 | 0.4665 | 0.2326 |
+| 9    | 0.7026        | 0.5919 | 0.5002 | 0.4241 | 0.1938 |
+| 10   | 0.6756        | 0.5584 | 0.4632 | 0.3855 | 0.1615 |
+
+__Table of NPV__
+| Year | Cash inflow | Cash outflow | Net flow  | 10\% discount rate | Present value |
+|------|-------------|--------------|-----------|--------------------|---------------|
+| 0    | $0          | $200,000     | -$200,000 | 1.0000             | -$200,000     |
+| 1    | $80,000     | $20,000      | $60,000   | 0.9091             | $54,546       |
+| 2    | $140,000    | $60,000      | $80,000   | 0.8264             | $66,112       |
+| 3    | $240,000    | $120,000     | $120,000  | 0.7513             | $90,156       |
+| 4    | $360,000    | $200,000     | $160,000  | 0.6830             | $109,280      |
+|      |             |              |           | Net present value  | $120,094      |
+
+We can calculate the `Present Value` by $\texttt{discount rate} \times \texttt{Net Flow}$.
+
+## Evaluation of Investment Appraisal
+
+Using mathematical models for investment appraisal can produce figures, they might not be entirely correct.
+Factor in qualitative techniques, such as:
+- STEEPLE
+- BCG Matrix
+- Product Life Cycle
+- Product Portfolio Analysis
+- Market Research Results
+
 # Budgets
+
+Budgeting is the act of creating `budgets`, plans for the business in the up coming years.
+Budgeting help companies measure goals and find out how well they did.
+Budgets can be made for different departments, the whole company, or a single product.
+Budgets generally contains information on the planned monetary values of the objects.
+
+## Variances
+
+When a company look at a past budgets, they can decide if they performed better or worse than the budget.
+- __Favorable Variance:__ better than budget
+- __Adverse Variance:__ worse than budget
+- __No Variance:__ same as budget
+
+Note, if the actual cost is lower than the budget, it is favorable.
+However, if the actual revenue is lower that the budget, it is adverse.
+
+Below is a sample budget:
+
+|                 | Item                              | Budgeted | Actual  | Variance | Favourable or adverse? |
+|-----------------|-----------------------------------|----------|---------|----------|------------------------|
+| Revenue         | Revenue from rooms                | £10,000  | £12,000 | £2,000   | Favourable (F)         |
+|                 | Revenue from food and drink sales | £2,500   | £1,900  | £600     | Adverse (A)            |
+|                 | TOTAL REVENUE                     | £12,500  | £13,900 | £1,400   | Favourable (F)         |
+| Costs           | Staffing costs                    | £6,600   | £7,000  | £400     | Adverse (A)            |
+|                 | Marketing costs                   | £400     | £400    | £0       | No variance            |
+|                 | Food and drink costs              | £1,250   | £950    | £300     | Favourable (F)         |
+|                 | Utilities costs                   | £600     | £650    | £50      | Adverse (A)            |
+|                 | Cleaning and miscellaneous costs  | £320     | £400    | £80      | Adverse (A)            |
+|                 | TOTAL COSTS                       | £9,170   | £9,400  | £230     | Adverse (A)            |
+| Forecast profit |                                   | £3,330   | £4,500  | £1,170   | Favourable (F)         |
+
+Variance is calculated as the difference between the budgeted value and the actual value.
+
+## Cost and Profit Centers
+
+Areas of a business can be divided into `Cost Centers` and `Profit Centers`.
+Cost centers are part of the business that creates cost.
+Profit centers are part of the business that directly generate revenue (while creating some cost).

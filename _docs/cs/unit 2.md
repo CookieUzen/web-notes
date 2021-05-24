@@ -11,7 +11,7 @@ The Central Processing Unit (CPU) is an integral part of a computer.
 The CPU follows the `input, process, output model`, and is responsible for doing most of the calculations our computers need to do in order to run.
 The CPU is the brain of a computer.
 
-A CPU contains: 
+A CPU contains:
 - Control Unit (CU)
 - Arithmetic Logic Unit (ALU)
 - Memory Address Register (MAR)
@@ -21,22 +21,21 @@ A CPU contains:
 
 `ALU` performs math/logic/IO operations. The CU provides ALU data and instructions.
 
-`MAR` is responsible for the memory address of data needed, while MDR is responsible for retrieving the data from the memory address.
+`MAR` is responsible for the memory address of data needed, while `MDR` is responsible for retrieving the data from the memory address.
 
 ## Machine Instruction Cycle
 
-This is the steps in which instructions are carried out in machine code. 
-1. Fetch instructions from Primary Memory to Control Unit 
-2. Decode instructions in Control Unit (loads additional data) 
-3. Execute instructions 
+This is the steps in which instructions are carried out in machine code.
+1. Fetch instructions from Primary Memory to Control Unit
+2. Decode instructions in Control Unit (loads additional data)
+3. Execute instructions
 4. Stores results and check for next instruction
-
 
 ## Primary Memory
 
-- 1 bit = one or zero 
-- 8 bits = 1 byte 
-- 64 bit system = 64 bits in each Memory Bus data transfer 
+- 1 bit = one or zero
+- 8 bits = 1 byte
+- 64 bit system = 64 bits in each Memory Bus data transfer
 - MB = Mega Byte, Mb = Mega bit
 
 Memory is separated into `Random Access Memory` and `Read Only Memory`.
@@ -44,13 +43,12 @@ Memory is separated into `Random Access Memory` and `Read Only Memory`.
 ### RAM
 
 RAM stores program instructions and relevant data. Data in RAM is stored in unique places: Memory Addresses.
-
 Note, RAM allows for frequent read-write, and is volatile. If power is lost, all information is lost.
 
-RAM is separated into two different types: 
+RAM is separated into two different types:
 - __Dynamic RAM (DRAM)__, DRAM is slower than SRAM, but cheaper. Used in RAM sticks we use.
-- __Static RAM (SRAM)__, SRAM is faster but more expensive (and smaller). SRAM is placed between the CPU and RAM. It is also called a cache. 
- 
+- __Static RAM (SRAM)__, SRAM is faster but more expensive (and smaller). SRAM is placed between the CPU and RAM. It is also called a cache.
+
 ### Cache
 
 Cache holds useful information CPUs frequently uses.
@@ -93,12 +91,12 @@ When primary memory is not enough for one application, Virtual Memory enables pr
 Virtual Memory moves the memory of unused application to secondary memory, freeing up space for newly opened application.
 The memory is loaded into primary memory back on when the unused application is accessed again.
 
-Some examples of secondary memory are: 
-- Hard Drive 
-- DVD/CD 
-- USB 
-- SD Card 
-- Floppy Disk 
+Some examples of secondary memory are:
+- Hard Drive
+- DVD/CD
+- USB
+- SD Card
+- Floppy Disk
 - Magnetic Tape
 
 # Operating and Application Systems
@@ -106,9 +104,9 @@ Some examples of secondary memory are:
 An `Operating System` is a set of software that controls the computer's hardware resources and provides services for computer programs.
 It interactive between the user and the hardware of the computer system.
 
-The main services of an OS are: 
-- Peripheral Communication 
-- Memory Management 
+The main services of an OS are:
+- Peripheral Communication
+- Memory Management
 - Resource Monitoring and Multitasking
 - Networking
 - Disk Access and Data Management
@@ -117,13 +115,13 @@ The main services of an OS are:
 ## Software Application
 
 Computer system uses `Software Application` to complete some task.
-The main types of software application includes: 
-- Word Processors 
-- Spreadsheets 
-- Database Management Systems 
-- Web Browsers 
-- Email 
-- Computer Aided Design 
+The main types of software application includes:
+- Word Processors
+- Spreadsheets
+- Database Management Systems
+- Web Browsers
+- Email
+- Computer Aided Design
 - Graphic Processing Software
 
 ### Word Processor
@@ -139,10 +137,10 @@ Spreadsheets are used for operation of arithmetic and mathematical functions.
 ### Database Management System
 
 A DBMS is an application application that manages a database.
-Common features of a DBMS includes: 
-- Create Queries 
-- Update Stores 
-- Modifies Queries 
+Common features of a DBMS includes:
+- Create Queries
+- Update Stores
+- Modifies Queries
 - Extract Information
 
 This program provides an interface between a database between an user.
@@ -180,9 +178,9 @@ But requires more memory, a graphical display and a mouse, and is more difficult
 
 ### GUI Implementation
 
-A common GUI includes several elements: 
-- Toolbar 
-- Menu 
+A common GUI includes several elements:
+- Toolbar
+- Menu
 - Dialogue box
 
 # Binary Representation
@@ -313,4 +311,3 @@ For every next column, repeat the pattern: divide the rows into smaller and smal
 ## Simplification and Boolean Expressions
 
 ## Logic and Venn Diagrams Using Logic Gates
-

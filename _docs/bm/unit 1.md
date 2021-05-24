@@ -429,10 +429,10 @@ Involves other organizations. Promotes quick expansion and efficient meeting of 
 * __Mergers & Acquisitions__:  Result in fundamental structure of companies, and cannot easily be reversed, therefore are riskier. Can be larger/small operations. Large companies like Facebook acquiring companies like WhatsApp may not affect future if unsuccessful. Mergers of equals are especially risky, and 50% of mergers end in failure. Merging of companies may not create a unified entity, however ideal the strategic plan was, primarily due to company culture. It is AOL - Time Warner, conjoined, not unified.
 * [Apparently Mergers of Equals don’t Exist?](https://www.forbes.com/sites/forbesleadershipforum/2014/06/05/why-corporate-mergers-of-equals-almost-never-work/#502f56404176)
 * __Merger__: Results in two firms combining to form one entity replacing both.  (A + B = AB). 
-* __Acquisition__: One firm purchases another (50% or more of company B’s ownership interest, usually 100%). Parent company $
-ightarrow$ Subsidiary relationship. Both exist as legal entities, but A controls B’s actions. Disney $
-ightarrow$ Pixar. 
-* __Takeover__: Takeovers can be _hostile (usually when in financial press)_: senior managers of target film are in opposition (shareholders sell without consent).  __|__ _friendly_:  management favors operation and recommends the sale of shares to acquiring company. Shares bought from shareholders at a price exceeding stock market value. Takeovers can lead to acquisitions or mergers.
+* __Acquisition__: One firm purchases another (50% or more of company B’s ownership interest, usually 100%). Parent company $\rightarrow$ Subsidiary relationship. Both exist as legal entities, but A controls B’s actions. Disney $\rightarrow$ Pixar. 
+* __Takeover__: Takeovers can be 
+ * __Hostile__ (_usually when in financial press releases_): senior managers of target film are in opposition (shareholders sell without consent). 
+ * __Friendly__:  Management favors operation and recommends the sale of shares to acquiring company. Shares bought from shareholders at a price exceeding stock market value. Takeovers can lead to acquisitions or mergers.
 
 #### Joint ventures
 

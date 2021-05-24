@@ -599,6 +599,7 @@ NPV accounts for depreciation for the net cash flow.
 It is calculated using a provided table of `Discount Rates`.
 
 __Table of Discount Rate__
+
 | Year | Discount rate |        |        |        |        |
 |------|:-------------:|:------:|:------:|:------:|:------:|
 |      | 4%            | 6%     | 8%     | 10%    | 20%    |
@@ -614,6 +615,7 @@ __Table of Discount Rate__
 | 10   | 0.6756        | 0.5584 | 0.4632 | 0.3855 | 0.1615 |
 
 __Table of NPV__
+
 | Year | Cash inflow | Cash outflow | Net flow  | 10\% discount rate | Present value |
 |------|-------------|--------------|-----------|--------------------|---------------|
 | 0    | $0          | $200,000     | -$200,000 | 1.0000             | -$200,000     |

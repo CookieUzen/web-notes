@@ -295,7 +295,7 @@ Rising numbers of __Social Audits__/__Sustainability Reports__/etc review the im
 * __Governments__: Regulate organizations in public interest and enforce laws for consequences. May depend on large companies for tax and employment opps, or are customers of defence/pharmaceutical/etc industries. 
 * __Unions__: Protect employee livelihood and rights, representing them in firms and have more resources for defense. 
 * __Banks__: Lend funds for operation, wish for loan return on time with interest, and so follow liquidity (availability of liquid assets), solvency (possession of liability-separate assets), and other health indicators. Companies may renegotiate payback schedules. 
-* __The Society/Environment__: Affected by corporate behavior (CSR). If government fails public interest, ::Pressure Groups::: may come in to force ethical corporate behavior. Local communities are most directly impacted by company actions, in any manner. 
+* __The Society/Environment__: Affected by corporate behavior (CSR). If government fails public interest, __Pressure Groups__ may come in to force ethical corporate behavior. Local communities are most directly impacted by company actions, in any manner. 
 * __Competitors__: Organizations opposing a company’s success, but are impacted by its actions likewise. Competing organizations expect fairness in legal and ethical actions, but may also cooperate in mutual interest. (_IB may not consider them stakeholders_)
 
 

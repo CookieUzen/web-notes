@@ -4,9 +4,13 @@ title: Docsy Jekyll Theme
 permalink: /
 ---
 
-# Welcome to Docsy Jekyll
+# Welcome to Web-Notes!
 
-This is a starter template for a docsy jekyll theme.
+This is a IBDP general notes platform for all HL and SL Students! This is a CAS project from : 
+
+Cobbi Liu
+Uzen Huang
+Alex Xue
 
 ![assets/img/docsy-jekyll.png](assets/img/docsy-jekyll.png)
 

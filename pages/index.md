@@ -8,9 +8,9 @@ permalink: /
 
 This is a IBDP general notes platform for all HL and SL Students! This is a CAS project from : 
 
-Cobbi Liu
-Uzen Huang
-Alex Xue
+* Cobbi Liu
+* Uzen Huang
+* Alex Xue
 
 ![assets/img/docsy-jekyll.png](assets/img/docsy-jekyll.png)
 

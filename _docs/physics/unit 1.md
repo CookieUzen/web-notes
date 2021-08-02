@@ -137,7 +137,7 @@ Below is a list of common scalars and vectors or their vector counterparts:
 | Mass                             |                                          |
 | Volume \ Density                 |                                          |
 
-[^2]: A vector counterpart cannot be derived from a scalar, for example, you obtain average velocity from distance.
+[^2]: A vector counterpart cannot be derived from a scalar, for example, you cannot obtain average velocity from distance.
 
 
 

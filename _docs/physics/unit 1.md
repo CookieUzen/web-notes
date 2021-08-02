@@ -27,26 +27,26 @@ The table shows their quantities and their units.
 These quantities are derived from and `Physical Quantities`, AKA SI derived quantities. 
 The table below show some common derived quantities.
 
-|                  Quantities                   |         Symbol         | SI Derivation                            |         SI Unit          |            Commonly Used Form             |
-| :-------------------------------------------: | :--------------------: | :--------------------------------------- | :----------------------: | :---------------------------------------: |
-|                  Plane Angle                  |      Rad/$\theta$      | $\frac{m}{m}$                            | Radians ($Rad$/$\theta$​) |  $1Rad = 1^{\circ} \cdot \frac{π}{180}$​​   |
-|                   Velocity                    |          $v$           | $m \cdot s^{-1}$​                         |                          |                                           |
-|                 Acceleration                  |          $a$​           | $m \cdot s^{-2}$​                         |                          |                                           |
-|        (Gravitational Field Strength)         |          $g$​​​​           | $N \cdot kg^{-1}$                        |                          |             $m \cdot s^{-2}$              |
-|                Force / Weight                 |          $F$           | $kg \cdot m \cdot s^{-2}$                |       Newton ($N$)       |                                           |
-|                 Energy \ Work                 | $E$​ \ $W$​ \ $Q (heat)$ | $kg \cdot m^{2} \cdot s^{-2}$​            |       Joule ($J$​​​)​        |             $J \cdot s^{-1}$​              |
-|                     Power                     |          $P$           | $kg⋅m^{2}⋅s^{−3}$​                        |        Watt ($W$)        |                                           |
-|                   Momentum                    |          $p$           | $kg \cdot m \cdot s^{-1}$                |                          |                                           |
-|                   Pressure                    |          $p$           | $kg \cdot m^{-1} \cdot s^{-2}  $​         |      Pascal ($Pa$​)       |             $N \cdot m^{-2} $             |
-|                   Frequency                   |          $f$           | $s^{-1}$​                                 |       Hertz ($Hz$)       | $f = \frac{1}{T}$ where $T$ Is the period |
-|             Electrical Resistance             |          $R$           | $kg \cdot m^2 \cdot s^{-3} \cdot A^{-2}$ |      Ohm ($\Omega$)      |             $V \cdot A^{-1}$              |
-|                Electric Charge                |          $C$           | $A \cdot s$                              |      Coulomb ($C$)       |                                           |
+| Quantities                                    |         Symbol         | SI Derivation                            |         SI Unit          |            Commonly Used Form             |
+| :-------------------------------------------- | :--------------------: | :--------------------------------------- | :----------------------: | :---------------------------------------: |
+| Plane Angle                                   |      Rad/$\theta$      | $\frac{m}{m}$                            | Radians ($Rad$/$\theta$​) |  $1Rad = 1^{\circ} \cdot \frac{π}{180}$​​   |
+| Velocity                                      |          $v$           | $m \cdot s^{-1}$​                         |                          |                                           |
+| Acceleration                                  |          $a$​           | $m \cdot s^{-2}$​                         |                          |                                           |
+| (Gravitational Field Strength)                |          $g$​​​​           | $N \cdot kg^{-1}$                        |                          |             $m \cdot s^{-2}$              |
+| Force / Weight                                |          $F$           | $kg \cdot m \cdot s^{-2}$                |       Newton ($N$)       |                                           |
+| Energy \ Work                                 | $E$​ \ $W$​ \ $Q (heat)$ | $kg \cdot m^{2} \cdot s^{-2}$​            |       Joule ($J$​​​)​        |             $J \cdot s^{-1}$​              |
+| Power                                         |          $P$           | $kg⋅m^{2}⋅s^{−3}$​                        |        Watt ($W$)        |                                           |
+| Momentum                                      |          $p$           | $kg \cdot m \cdot s^{-1}$                |                          |                                           |
+| Pressure                                      |          $p$           | $kg \cdot m^{-1} \cdot s^{-2}  $​         |      Pascal ($Pa$​)       |             $N \cdot m^{-2} $             |
+| Frequency                                     |          $f$           | $s^{-1}$​                                 |       Hertz ($Hz$)       | $f = \frac{1}{T}$ where $T$ Is the period |
+| Electrical Resistance                         |          $R$           | $kg \cdot m^2 \cdot s^{-3} \cdot A^{-2}$ |      Ohm ($\Omega$)      |             $V \cdot A^{-1}$              |
+| Electric Charge                               |          $C$           | $A \cdot s$                              |      Coulomb ($C$)       |                                           |
 | Electric Potential Difference (Voltage) \ EMF |    $V$​ \ $\epsilon$​    | $kg⋅m^{2}⋅s^{-3}⋅A^{−1}$                 |       Volts ($V$)        |      $\frac{W}{A}$​​ or $\frac{J}{s}$​​       |
-|                  Capacitance                  |          $F$           | $kg^{−1}⋅m^{−2}⋅s^{4}⋅A^{2}$             |       Farad ($F$)        |               $\frac{C}{V}$               |
-|                 Magnetic Flux                 |          $Wb$          | $kg⋅m^{2}⋅s^{−2}⋅A^{−1}$                 |       Weber ($Wb$)       |                $V \cdot s$                |
-|     Magnetic Flux Density/Field Strength      |          $T$           | $kg⋅s^{−2}⋅A^{−1}$                       |       Tesla ($T$)        |            $\frac{Wb}{m^{2}}$​             |
-|                  Temperature                  |      $\theta$​/$T$      | $K$                                      |   Celcius ($^{\circ}C$   |     $-273.15^{\circ}C = 1 ^{\circ}K$​​      |
-|     Radioactivity ($\frac{decays}{time}$​​)     |          $Bq$          | $s^{-1}$                                 |     Becquerel ($Bq$)     |                                           |
+| Capacitance                                   |          $F$           | $kg^{−1}⋅m^{−2}⋅s^{4}⋅A^{2}$             |       Farad ($F$)        |               $\frac{C}{V}$               |
+| Magnetic Flux                                 |          $Wb$          | $kg⋅m^{2}⋅s^{−2}⋅A^{−1}$                 |       Weber ($Wb$)       |                $V \cdot s$                |
+| Magnetic Flux Density/Field Strength          |          $T$           | $kg⋅s^{−2}⋅A^{−1}$                       |       Tesla ($T$)        |            $\frac{Wb}{m^{2}}$​             |
+| Temperature                                   |      $\theta$​/$T$      | $K$                                      |  Celcius ($^{\circ}C$​)   |     $-273.15^{\circ}C = 1 ^{\circ}K$​​      |
+| Radioactivity ($\frac{decays}{time}$​​)         |          $Bq$          | $s^{-1}$                                 |     Becquerel ($Bq$)     |                                           |
 
 
 
@@ -137,7 +137,10 @@ Below is a list of common scalars and vectors or their vector counterparts:
 | Mass                             |                                          |
 | Volume \ Density                 |                                          |
 
-[^2]: A vector counterpart cannot be derived from a scalar, for example, you obtain average velocity from distance. 
+[^2]: A vector counterpart cannot be derived from a scalar, for example, you obtain average velocity from distance.
+
+
+
 
 ## Working with Vectors
 
@@ -146,3 +149,11 @@ This way, we can represent the vectors with positive and negative values.
 For example, a force applied on a object upwards can be indicated with a positive sign, and a downwards force represented by a negative sign.
 
 To separate the X and Y direction, we usually use trig function (sin cos tan).
+
+
+
+
+
+
+
+# Footnotes

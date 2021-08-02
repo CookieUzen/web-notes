@@ -9,7 +9,7 @@ description: Unit 1 of Physics
 
 ### Physical Quantities
 
-All measurements are made of the *seven* basic quantities, or SI base units. 
+All measurements are made of the *seven* basic quantities, or `SI Base Units`.
 The table shows their quantities and their units.
 
 |      Quantity       |    SI Unit    | Symbol |
@@ -24,7 +24,7 @@ The table shows their quantities and their units.
 
 ### Derived Quantities
 
-These quantities are derived from and `Physical Quantities`, AKA SI derived quantities. 
+These quantities are derived from and `Physical Quantities`, AKA `SI Derived Quantities`. 
 The table below show some common derived quantities.
 
 | Quantities                                    |         Symbol         | SI Derivation                            |         SI Unit          |            Commonly Used Form             |
@@ -52,19 +52,20 @@ The table below show some common derived quantities.
 
 ## Physical Quantities and Calculations
 
-When plugging in quantities into an equation, ==always be aware of unit conversion.==
+When plugging in quantities into an equation, **always be aware of unit conversion.**
 A method to avoid calculation error with unit conversion is to treat the units as mathematical entities.
+
 This is called quantity calculus.
 
 ## Scientific Notation
 
-Scientific Notation leaves only one digit, and concatenate the rest as powers of ten.
-For example: $4. 2 \cdot 10^4$​.
-The decimal places indicate how many digits of significant figures is the number accurate to.
+`Scientific Notation` leaves only one digit, and concatenate the rest as powers of ten.
+For example: $4. 2 \cdot 10^4$​​.
+The decimal places indicate how many digits of `significant figures` is the number accurate to.
 
 ### SI Prefix
 
-A common list of SI Prefixes can be found below:
+A common list of `SI Prefixes` can be found below:
 
  Factor  | Name  | Symbol | English |   Factor   | Name  | Symbol| English 
 :-------:|:-----:|:------:|:--------|:----------:|:-----:|:------:|:--------
@@ -79,7 +80,7 @@ A common list of SI Prefixes can be found below:
  $10^{21}$​ | zetta |  $Z$   | Sextillion | $10^{-21}$ | zepto |  $z$| Sextillionth 
  $10^{24}$​ | yotta |  $Y$   | Septillion | $10^{-24}$ | yocto |  $y$| Septillionth 
 
-These values are very important during calculations, and thus it would be a good idea to remember prefixes from "giga" to "pico", for example "giga-watts" ($GW$​​), or "pico-farads" ($pF$​​). A good way to start is to remember that from "deca" up to "kilo", we have [$10^1 — 10^3$​​]. After that we start jumping by 3 zeroes, or $10^{x+3}$​​ [^1] . The same method works if we go down from "deci." Except after the third sub-zero value "milli", we jump by 3 decimal places instead, or $10^{-x-3}$​​​​. Keep in mind that one has no special name and is equal to $10^0$​.
+These values are very important during calculations, and thus it would be a good idea to remember prefixes from `giga` to `pico`, for example "giga-watts" ($GW$), or "pico-farads" ($pF$). A good way to start is to remember that from `deca` up to `kilo`, we have [$10^1 — 10^3$]. After that we start jumping by 3 zeroes, or $10^{x+3}$ [^1] . The same method works if we go down from `deci.` Except after the third sub-zero value `milli`, we jump by 3 decimal places instead, or **$10^{-x-3}$**. Keep in mind that one has no special name and is equal to $10^0$.
 
 
 
@@ -118,12 +119,12 @@ Physical quantities can be grouped into two different categories, scalars and ve
 ## Define Scalars and Vectors
 
 **Scalars** are units of measurement that only describe the magnitude of an object.
-For example, distance is a scalar: it only describes how far you went in a given time interval (*10 meters in total*).
+For example, distance is a `scalar`: it only describes how far you went in a given time interval (*10 meters in total*).
 
 **Vectors** are units of measurement describing both magnitude and a direction.
-For example, displacement is a vector, it describes the direction of movement and the distance traveled in a given time interval (*5 meters forward, 5 meters back*).
+For example, displacement is a `vector`, it describes the direction of movement and the distance traveled in a given time interval (*5 meters forward, 5 meters back*).
 
-Below is a list of common scalars and vectors or their vector counterparts:
+Below is a list of common `scalars` and `vectors` or their `vector` counterparts:
 
 | Scalars                          | Vectors                                  |
 | -------------------------------- | ---------------------------------------- |
@@ -144,8 +145,8 @@ Below is a list of common scalars and vectors or their vector counterparts:
 
 ## Working with Vectors
 
-We tend to break vectors into the x direction and the y direction.
-This way, we can represent the vectors with positive and negative values.
+We tend to break `vectors` into the x direction and the y direction.
+This way, we can represent the `vectors` with positive and negative values.
 For example, a force applied on a object upwards can be indicated with a positive sign, and a downwards force represented by a negative sign.
 
 To separate the X and Y direction, we usually use trig function (sin cos tan).

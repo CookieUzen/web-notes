@@ -20,14 +20,12 @@ The table shows their quantities and their units.
 |       Current       |    amperes    | $A$    |
 |     Temperature     |    kelvin     | $k$    |
 | Amount of substance |     mole      | $mol$  |
-| Luminous intensity  |    candela    | $cd$   |
+| Luminous intensity  |    Candela    | $cd$   |
 
 ### Derived Quantities
 
 These quantities are derived from and `Physical Quantities`.
 The table below show some common derived quantities.
-
-
 
 |  Quantities   |         Symbol         |              Unit              |   SI Unit    | Commonly Used Form |
 | :-----------: | :--------------------: | :----------------------------: | :----------: | :----------------: |
@@ -42,17 +40,11 @@ The table below show some common derived quantities.
 |               |                        |                                |              |                    |
 |               |                        |                                |              |                    |
 
-----------------------------|--------|------------------------------------------|----------------|-------------------
-          Velocity           |  $v$   |             $m \cdot s^{-1}$             |                |
-        Acceleration     |  $a$   |             $m \cdot s^{-2}$             |                |
-           Force             |  $F$   |        $kg \cdot m \cdot s^{-2}$         |  Newton ($N$)  |
-        Energy, Work    | $E, W$ |       $kg \cdot m^2 \cdot s^{-2}$        |  Joule ($J$)   |
-           Power            |  $P$   |       $kg \cdot m^2 \cdot s^{-3}$        |   Watt ($W$)   | $J \cdot s^{-1}$
-          Momentum          |  $p$   |      $kg \cdot m^{-1} \cdot s^{-2}$      |                |
-          Pressure          |  $p$   |      $kg \cdot m^{-1} \cdot s^{-2}$      | Pascal ($Pa$)  | $N \cdot m^{-2}$
+
+​          Pressure          |  $p$   |      $kg \cdot m^{-1} \cdot s^{-2}$      | Pascal ($Pa$)  | $N \cdot m^{-2}$
  Gravitation Field Strength |  $g$   |             $m \cdot s^{-2}$             |                | $N \cdot kg^{-1}$
-    Electric Resistance     |  $R$   | $kg \cdot m^2 \cdot s^{-3} \cdot A^{-2}$ | Ohm ($\Omega$) | $V \cdot A^{-1}$
-         Frequency          |  $f$   |                 $s^{-1}$                 |  herts ($Hz$)  |
+​    Electric Resistance     |  $R$   | $kg \cdot m^2 \cdot s^{-3} \cdot A^{-2}$ | Ohm ($\Omega$) | $V \cdot A^{-1}$
+​         Frequency          |  $f$   |                 $s^{-1}$                 |  herts ($Hz$)  |
 
 ## Physical Quantities and Calculations
 

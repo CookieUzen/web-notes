@@ -12,27 +12,41 @@ description: Unit 1 of Physics
 All measurements are made of the *seven* basic quantities.
 The table shows their quantities and their units.
 
-      Quantity       | SI Unit  | Symbol
----------------------|----------|--------
-        Time         |  second  |  $s$
-      Distance       |  meter   |  $m$
-        Mass         | kilogram |  $kg$
-       Current       |  ampere  |  $A$
-     Temperature     |  kelvin  |  $K$
- Amount of substance |   mole   | $mol$
- Luminous intensity  | candela  |  $cd$
+|      Quantity       |    SI Unit    | Symbol |
+| :-----------------: | :-----------: | ------ |
+|        Time         |    second     | $s$    |
+|   Distance/Length   | meters/metres | $m$    |
+|        Mass         |   kilograms   | $kg$   |
+|       Current       |    amperes    | $A$    |
+|     Temperature     |    kelvin     | $k$    |
+| Amount of substance |     mole      | $mol$  |
+| Luminous intensity  |    candela    | $cd$   |
 
 ### Derived Quantities
 
 These quantities are derived from and `Physical Quantities`.
 The table below show some common derived quantities.
 
-          Quantity          | Symbol |                   Unit                   |    SI Unit     |   Usual Symbol
+
+
+|  Quantities   |         Symbol         |              Unit              |   SI Unit    | Commonly Used Form |
+| :-----------: | :--------------------: | :----------------------------: | :----------: | :----------------: |
+|   Velocity    |          $v$           |        $m \cdot s^{-1}$​        |              |                    |
+| Acceleration  |          $a$           |        $m \cdot s^{-2}$​        |              |                    |
+|     Force     |          $F$           |   $kg \cdot m \cdot s^{-2}$    | Newton ($N$) |                    |
+| Energy \ Work | $E$​ \ $W$​ \ $Q (heat)$ | $kg \cdot m^{2} \cdot s^{-2}$​  | Joule ($J$​​​)​  |  $J \cdot s^{-1}$​  |
+|     Power     |          $P$           |       $kg⋅m^{2}⋅s^{−3}$​        |  Watt ($W$)  |                    |
+|   Momentum    |          $p$           |   $kg \cdot m \cdot s^{-1}$    |              |                    |
+|   Pressure    |          $p$           | $kg \cdot s^{-2} \cdot m^{-1}$ |              |                    |
+|               |                        |                                |              |                    |
+|               |                        |                                |              |                    |
+|               |                        |                                |              |                    |
+
 ----------------------------|--------|------------------------------------------|----------------|-------------------
-          Velocity          |  $v$   |             $m \cdot s^{-1}$             |                |
-        Acceleration        |  $a$   |             $m \cdot s^{-2}$             |                |
-           Force            |  $F$   |        $kg \cdot m \cdot s^{-2}$         |  Newton ($N$)  |
-        Energy, Work        | $E, W$ |       $kg \cdot m^2 \cdot s^{-2}$        |  Joule ($J$)   |
+          Velocity           |  $v$   |             $m \cdot s^{-1}$             |                |
+        Acceleration     |  $a$   |             $m \cdot s^{-2}$             |                |
+           Force             |  $F$   |        $kg \cdot m \cdot s^{-2}$         |  Newton ($N$)  |
+        Energy, Work    | $E, W$ |       $kg \cdot m^2 \cdot s^{-2}$        |  Joule ($J$)   |
            Power            |  $P$   |       $kg \cdot m^2 \cdot s^{-3}$        |   Watt ($W$)   | $J \cdot s^{-1}$
           Momentum          |  $p$   |      $kg \cdot m^{-1} \cdot s^{-2}$      |                |
           Pressure          |  $p$   |      $kg \cdot m^{-1} \cdot s^{-2}$      | Pascal ($Pa$)  | $N \cdot m^{-2}$
@@ -73,6 +87,7 @@ A common list of SI Prefixes can be found below:
 
 Significant Figures determines the amount of digits that is accurate in a certain calculation.
 To find the significant figure of a number, we use the following rules: 
+
 -   Left most *non-zero* digit is the `most significant digit` 
 -   If there is no decimal points, the rightmost digit *non zero* digit is the `least significant digit`
 -   If there is a decimal point, the rightmost digit is the `least significant digit`

@@ -3,11 +3,12 @@ title: Blog
 permalink: /blog/
 ---
 
-# Blog
+# Coconut Blog
+
+This is the landing page for the IB and productivity blog!
 
 <p>Subscribe with <a href="{{ site.baseurl }}/feed.xml">RSS</a> to keep up with the latest blogs.
 For site changes, see the <a href="https://github.com/{{ site.github_user }}/{{ site.github_repo }}/blob/master/CHANGELOG.md">changelog</a> kept with the code base.</p>
-
 <br>
 
 {% for post in site.posts limit:10 %}

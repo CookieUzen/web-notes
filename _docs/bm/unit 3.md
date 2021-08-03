@@ -65,9 +65,9 @@ Generally, these come from NGOs or governments who want to support the business.
 
 Other then the main sources of finance, there are others that does not fit the groups.
 
-__Trade Credit:__ a method of paying for goods at a later date, without interest. Often provided to companies by companies. 
-__Debt Factoring:__ the action of selling debt, to a debt factoring company. Often at a lower cost, but with an immediate payment. 
-__Leasing:__ the action of leasing fixed assets instead of buying them. Flexible, but cost more in the long run.
+- __Trade Credit:__ a method of paying for goods at a later date, without interest. Often provided to companies by companies. 
+- __Debt Factoring:__ the action of selling debt, to a debt factoring company. Often at a lower cost, but with an immediate payment. 
+- __Leasing:__ the action of leasing fixed assets instead of buying them. Flexible, but cost more in the long run.
 
 ## Short, Medium, and Long-Term Finance
 
@@ -152,7 +152,7 @@ Variable cost is cost that change directly due to production. These include mate
 
 Fixed cost is cost that is not effected directly with production.
 For example, electricity bills remain relatively constant no matter the amount produced.
-Although electrify is required to make the product, it is not effected directly by the amount produced.
+Although electricity is required to make the product, it does not directly effect the amount produced.
 Other fixed costs include rent, salaries, capital.
 
 ## Direct and Indirect Costs

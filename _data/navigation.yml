@@ -1,6 +1,8 @@
 - title: About
   url: about
-- title: Documentation
+- title: Textbooks
   url: docs
+- title: Blog
+  url: blog
 - title: Style
   url: style

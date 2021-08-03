@@ -14,7 +14,10 @@ For site changes, see the <a href="https://github.com/{{ site.github_user }}/{{ 
 {% for post in site.posts limit:10 %}
    <div class="post-preview">
    <h2><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h2>
-   <span class="post-date">{{ post.date | date: "%B %d, %Y" }}</span><br>
+   <span class="post-date"><i>{{ post.date | date: "%B %d, %Y" }}</i></span>
+   {% if post.author %}
+	   <span class="post-author">by <b>{{ post.author }}</b> </span><br>
+   {% endif %}
    {% if post.badges %}{% for badge in post.badges %}<span class="badge badge-{{ badge.type }}">{{ badge.tag }}</span>{% endfor %}{% endif %}
    {{ post.content | split:'<!--more-->' | first }}
    {% if post.content contains '<!--more-->' %}

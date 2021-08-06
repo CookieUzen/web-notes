@@ -20,8 +20,8 @@ author: [Web Notes Team]
 description: > # this means to ignore newlines until "baseurl:"
   This is the web version of unit notes.
 
-  # Google Analytics
-google_analytics: G-CZT38H6KWG
+#Google Analytics
+google_analytics: G-6JLPC6QDX6
 
 baseurl: "/web-notes" # the subpath of your site, e.g. /blog
 

@@ -10,36 +10,36 @@ This is a IBDP general notes platform for all HL and SL Students! This is a CAS 
 
 - Cobbi Liu
 - Uzen Huang
+
+**Core Contributor**
 - Alex Xue
 
 ![assets/img/docsy-jekyll.png](assets/img/docsy-jekyll.png)
 
 ## Purpose
 
-GitHub pages uses Jekyll natively, so when I make documentation, I typically
-look for Jekyll templates. Why? Using Jekyll means that I can use markdown,
-and allow for users to easily contribute, and build automatically just by
-way of pushing to a master branch (or general GitHub pages).
-I found Docsy, a beautiful Hugo template, but it requires hugo with GoLang
-which doesn't render natively on GitHub pages. For this reason, I've spent
-some time creating a custom Jekyll template that is (almost) as beautiful,
-and includes all the features that I might want.
+Web-notes (please suggest a better name) is not just a CAS project, its a lifestyle. Although the age of handwritten notes has not ended, it is increasingly important to have a digital knowledge base for all your educational needs. As this site grows, you will see resources for all the major IB subjects (both HL and SL), as well as a IB guide and productivity blog. We hope this will be beneficial to you in your DP journey, or your pre-DP preparation process. 
 
-## Features
+*DP1s please join us in the future for a great CAS experience, and when we think you're ready, it can become your CAS project as well!*
 
-What are these features? You should see the {% include doc.html name="Getting Started" path="getting-started" %}
-guide for a complete summary. Briefly:
+# Vision
+We want to create an interactive online "Utopia" for IB students, and in the future, those of other curriculumns as well. We hope that this site can develop into something great minds can contribute to and students of all ages and backgrounds can learn from, while being a platform for the ideas of the future. 
 
- - *User interaction* including consistent permalinks, links to ask questions via GitHub issues, and edit the file on GitHub directly.
- - *Search* across posts, documentation, and other site pages, with an ability to exclude from search.
- - *External Search* meaning an ability to link any page tag to trigger an external search.
- - *Documentation* A documentation collection that was easy to organize on the filesystem, render with nested headings for the user, and refer to in markdown.
- - *Pages* A separate folder for more traditional pages (e.g, about).
- - *Navigation*: Control over the main navigation on the left of the page, and automatic generation of table of contents for each page on the right.
- - *News* A posts feed for news and updates, along with an archive (organized by year).
- - *Templates* or specifically, "includes" that make it easy to create an alert, documentation link, or other content.
- - *Continuous Integration* recipes to preview the site
+## Current Features
 
+### Notes
+* Mathematics AAHL 
+* Physics HL
+* Computer Science SL 
+* Business Management HL
 
-For features, getting started with development, see the {% include doc.html name="Getting Started" path="getting-started" %} page. Would you like to request a feature or contribute?
+### Other
+* Blog
+
+## Planned Features
+
+* Quizzes
+* Interactive Diagrams
+* Chatting (way in the future)
+
 [Open an issue]({{ site.repo }}/issues)

@@ -7,7 +7,7 @@ permalink: /blog/
 
 This is the landing page for the IB and productivity blog!
 
-This is the landing page for the IB life and productivity blog! Please also check out [cobbiliu.medium.com](cobbiliu.medium.com) for a public version of the posts! Leave a like (they call it a clap there), comment, follow, and subscribe if you'd like!
+Please also check out [cobbiliu.medium.com](cobbiliu.medium.com) for a public version of the posts! Leave a like (they call it a clap there), comment, follow, and subscribe if you'd like!
 
 <p>Subscribe with <a href="{{ site.baseurl }}/feed.xml">RSS</a> to keep up with the latest blogs.
 For site changes, see the <a href="https://github.com/{{ site.github_user }}/{{ site.github_repo }}/blob/master/CHANGELOG.md">changelog</a> kept with the code base.</p>

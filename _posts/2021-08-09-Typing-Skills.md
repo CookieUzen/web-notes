@@ -13,7 +13,9 @@ author: Cobbi Liu
 
 ​	**Keyboarding:** The "art" of doing things on a keyboard. 
 
-​	According to studies, the average writing speed of a secondary student is around 15 words-per-minute (WPM), which is reasonable. Then, logically, their typing speeds should be at least double. Experts recommend middle schoolers to have a range of around 30—45 WPM, and for them to have memorized the entire keyboard alphabet. This increases to  45—60+ WPM for high school. For my standards (which should soon be yours :wink:), however, these are the *minimum* requirements, and I'll explain why. 
+​	According to studies, the average writing speed of a secondary student is around 15 words-per-minute (WPM), which is reasonable. Then, logically, their typing speeds should be at least double. Experts recommend middle schoolers to have a range of around 30—45 WPM, and for them to have memorized the entire keyboard alphabet. This increases to  45—60+ WPM for high school. For my standards (which should soon be yours :wink:), however, these are the *minimum* requirements, and I'll explain why.
+
+<!--more--> 
 
 ​	Most researchers do not incorporate punctuation and symbols, much less other keys, into their estimates, and often simply discuss pure words or letters. However, once a child moves past primary, it would be simply wrong to leave out proficiency of the other two dozen keys. Let's start with a standard Apple Magic Keyboard layout.
 

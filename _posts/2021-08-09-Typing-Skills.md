@@ -3,8 +3,7 @@ title: "Words and commands can flow through your hands like water"
 subtitle: Work Effectiveness Part 1: How touch-typing and keyboard shortcuts can literally save your life  
 date: 2021-08-09
 categories: Productivity
-author: Cobbi Liu
-  
+author: Cobbi Liu  
 ---
 
 **Touch Keyboarding:** The art of doing things on a keyboard without looking at it.  

@@ -7,35 +7,32 @@ author: Cobbi Liu
   
 ---
 
-## Touch Keyboarding (T-T)
+**Touch Keyboarding:** The art of doing things on a keyboard without looking at it.  
 
-​	**Touch Typing:** Typing on a digital keyboard without looking at it. 
-
-​	**Keyboarding:** The "art" of doing things on a keyboard. 
-
-​	According to studies, the average writing speed of a secondary student is around 15 words-per-minute (WPM), which is reasonable. Then, logically, their typing speeds should be at least double. Experts recommend middle schoolers to have a range of around 30—45 WPM, and for them to have memorized the entire keyboard alphabet. This increases to  45—60+ WPM for high school. For my standards (which should soon be yours :wink:), however, these are the *minimum* requirements, and I'll explain why.
+According to studies, the average writing speed of a secondary student is around 15 words-per-minute (WPM), which is reasonable. Then, logically, their typing speeds should be at least double. Experts recommend middle schoolers to have a range of around 30—45 WPM, and for them to have memorized the entire keyboard alphabet. This increases to  45—60+ WPM for high school. For my standards (which should soon be yours :wink:), however, these are the *minimum* requirements, and I'll explain why.
 
 <!--more--> 
 
-​	Most researchers do not incorporate punctuation and symbols, much less other keys, into their estimates, and often simply discuss pure words or letters. However, once a child moves past primary, it would be simply wrong to leave out proficiency of the other two dozen keys. Let's start with a standard Apple Magic Keyboard layout.
+Most researchers do not incorporate punctuation and symbols, much less other keys, into their estimates, and often simply discuss pure words or letters. However, once a child moves past primary, it would be simply wrong to leave out proficiency of the other two dozen keys. Let's start with a standard Apple Magic Keyboard layout.
 
-<img src="../_site/assets/img/blog/typing-skills/Screen%20Shot%202021-08-08%20at%206.53.26%20PM%20copy%205.jpg" alt="Screen Shot 2021-08-08 at 6.53.26 PM copy 5" style="zoom:25%;" />
+ ![Alphanumeric]({{ site.url }}/{{ site.baseurl }}/assets/img/blog/typing-skills/Alphanumeric.png) 
+
 
 These are the alphanumeric (letters and numerals) keys, and they're what make up most of your keypresses. Pretty straightforward. 
 
-<img src="../_site/assets/img/blog/typing-skills/Screen%20Shot%202021-08-08%20at%206.53.26%20PM%20copy.jpg" alt="Screen Shot 2021-08-08 at 6.53.26 PM copy" style="zoom:25%;" />
+ ![Navigation]({{ site.url }}/{{ site.baseurl }}/assets/img/blog/typing-skills/Navigation.png) 
 
 These are the navigation keys, usually as a supplement to doing things on the screen with the mouse. For example, you can press enter to save a file when the button is highlighted. 
 
-<img src="../_site/assets/img/blog/typing-skills/Screen%20Shot%202021-08-08%20at%206.53.26%20PM%20copy%204.jpg" alt="Screen Shot 2021-08-08 at 6.53.26 PM copy 4" style="zoom:25%;" />
+ ![Editing]({{ site.url }}/{{ site.baseurl }}/assets/img/blog/typing-skills/Editing.png) 
 
 These are the editing/toggle keys. Enter and tab are in a weird spot because they are both used in text editing (tab indent, enter for next line), and navigation (tab for next item, enter for confirmation). 
 
-<img src="../_site/assets/img/blog/typing-skills/Screen%20Shot%202021-08-08%20at%206.53.26%20PM%20copy%203.jpg" alt="Screen Shot 2021-08-08 at 6.53.26 PM copy 3" style="zoom:25%;" />
+ ![Function]({{ site.url }}/{{ site.baseurl }}/assets/img/blog/typing-skills/Function.png) 
 
 These are the function keys. Most people rarely go into the top row, but for keyboard shortcuts and special controls on Mac, they're quite handy. For example, you can set F9 as a function to show your desktop without hiding a window or creating a new desktop. 
 
-<img src="../_site/assets/img/blog/typing-skills/Screen%20Shot%202021-08-08%20at%206.53.26%20PM.jpg" alt="Screen Shot 2021-08-08 at 6.53.26 PM" style="zoom:25%;" />
+ ![Modifier]({{ site.url }}/{{ site.baseurl }}/assets/img/blog/typing-skills/Modifier.png) 
 
 Last but not least, these are the modifier keys, otherwise known as the keyboard shortcut enablers. I'm sure you've used command/control c or v to copy. 
 
@@ -61,29 +58,27 @@ But, being fast on the keyboard doesn't just mean you write faster. You will ope
 
 * [Keybr](keybr.com)
 
-  <img src="../_site/assets/img/blog/typing-skills/Screen%20Shot%202021-08-09%20at%203.12.32%20PM.jpg" alt="Screen Shot 2021-08-09 at 3.12.32 PM" style="zoom:25%;" />
-
-  
+ ![Keybr]({{ site.url }}/{{ site.baseurl }}/assets/img/blog/typing-skills/keybr.png) 
 
   This site is great for practice with specific letters or symbols, but it is generally less intuitive since the words are randomized. There are also high-scores and multiplayer options which makes the experience more dynamic. 
 
 * [Monkeytype](monkeytype.com) 
 
-  <img src="../_site/assets/img/blog/typing-skills/Screen%20Shot%202021-08-09%20at%203.15.39%20PM.jpg" alt="Screen Shot 2021-08-09 at 3.15.39 PM" style="zoom:25%;" />
+![Monkeytype]({{ site.url }}/{{ site.baseurl }}/assets/img/blog/typing-skills/Monkeytype.png)   
 
-  This site is good for a wide range of typing skills from timed to number practices. I suggest doing "quotes" when you become proficient enough, as they're the most realistic for schoolwork scenarios. 
+
+This site is good for a wide range of typing skills from timed to number practices. I suggest doing "quotes" when you become proficient enough, as they're the most realistic for schoolwork scenarios. 
 
 * [Typing](typing.com)
 
-<img src="../_site/assets/img/blog/typing-skills/Screen%20Shot%202021-08-09%20at%203.17.10%20PM.jpg" alt="Screen Shot 2021-08-09 at 3.17.10 PM" style="zoom:25%;" />
+![Typing]({{ site.url }}/{{ site.baseurl }}/assets/img/blog/typing-skills/Typing.png)   
 
-​	   Typing.com is one of the more commercialized typing tools. It has a lot of analytics, courses, tests, games, and resources if you are willing to pay, but most of it is free for our purposes, so I do not recommend paying. It requires an account and is a lot slower to load, so once you get good enough just start practicing real texts on other sites.  
+Typing.com is one of the more commercialized typing tools. It has a lot of analytics, courses, tests, games, and resources if you are willing to pay, but most of it is free for our purposes, so I do not recommend paying. It requires an account and is a lot slower to load, so once you get good enough just start practicing real texts on other sites.  
 
 * [Typeracer](play.typeracer.com)
 
-  <img src="../_site/assets/img/blog/typing-skills/Screen%20Shot%202021-08-09%20at%203.22.52%20PM.jpg" alt="Screen Shot 2021-08-09 at 3.22.52 PM" style="zoom:25%;" />
+![Typeracer]({{ site.url }}/{{ site.baseurl }}/assets/img/blog/typing-skills/Typeracer.png)   
 
-  
 
   Once you are sufficiently comfortable with your abilities, you can go on typeracer to race international people or your friends. They're some really fast people up here but don't get discouraged, they got years on you. 
 
@@ -119,11 +114,13 @@ Now, you might be wondering...After we have mastered all of these fun keys and k
 
 *Great* question! Essentially, one god-level ability is to have achieved ***mouse-independence*** (at least when you're not playing games—although I do challenge you to play CSGO mouse-free). This is easier to do in operating systems like Linux distributions, where apps are designed for such a purpose, but we can simulate it in Mac or windows with the above skills. 
 
-![gif](../_site/assets/img/blog/typing-skills/gif.gif)
 
 (Using Vimium in Brave Browser to demonstrate the above concept)
 
 If you are willing to spend time learning about this, I will include a few tools and guidelines below. Plus, always feel free to contact me for any questions. 
+
+
+![Demo]({{ site.url }}/{{ site.baseurl }}/assets/img/blog/typing-skills/gif.gif)   
 
 
 

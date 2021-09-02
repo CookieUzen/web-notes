@@ -4,6 +4,7 @@ This is the repository hosting the website for [Unit-Notes](https://github.com/C
 You can find the website [here](https://cookieuzen.github.io/web-notes).
 
 This website is still under development, and will be merge back into the Unit-Notes repository when done.
+You can edit the website by going to [here](https://github.dev/CookieUzen/web-notes).
 
 Web-Notes is based on the [Docsy Jekyll theme](https://vsoch.github.com/docsy-jekyll/), and deployed on Github Pages.
 

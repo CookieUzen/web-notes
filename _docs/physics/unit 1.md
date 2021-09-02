@@ -152,7 +152,7 @@ For example, a force applied on a object upwards can be indicated with a positiv
 To separate the X and Y direction, we usually use trig function (sin cos tan).
 
 
-
+test
 
 
 

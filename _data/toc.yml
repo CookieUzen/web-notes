@@ -57,6 +57,8 @@
           url: "docs/bm/unit 2"
         - title: Finance and Accounts
           url: "docs/bm/unit 3"
+        - title: Marketing
+          url: "docs/bm/unit 4"
     - title: "Getting Started"
       url: "docs/getting-started"
       children:

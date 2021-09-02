@@ -34,7 +34,7 @@ The object oscillates along the spring, compressing and retracting the spring.
 The spring force acts as the restoring force.
 In this system, the energy of the system is composed of kinetic energy of the mass, and the elastic potential energy of the spring (and gravitational if the spring oscillates on a vertical axis).
 
-In a __pedulum SHM system__, a mass is attached to the end of a stationary, massless rope.
+In a __pendulum SHM system__, a mass is attached to the end of a stationary, massless rope.
 The rope is then attached on something, gravity pulls the mass taunt.
 The object then oscillates perpendicular to the direction of gravity (left and right), along the length of the spring.
 In this system, the energy of the system is composed of kinetic energy of the mass, and the gravitational potential energy of the spring.

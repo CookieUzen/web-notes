@@ -1,9 +1,10 @@
 ---
-title: Business organization and Environment
+title: Human Resources Management
 description: Unit 2 of Business Management
 ---
+> Unit 2: Human Resources Management
 
-# Factions and Evolution of Human Resource Management
+# 2.1 Functions and Evolution of Human Resources Management
 
 ## Human Resources Planning
 `Human Resources (Work force)` planning is the method used by a business to forecast how many and what type of employees are needed now and in the future.
@@ -343,7 +344,7 @@ Offshoring, but to a county close to the home country.
 
 __TODO!!!__
 
-# Organization Structure
+# 2.2 Organization Structure
 
 ## Terminology
 
@@ -435,7 +436,7 @@ In a Shamrock organizational structure, companies keep core workers with a multi
 All other employees should be temporary or out sourced. 
 This increases efficiency and flexibility, but have legal issues in some environments.
 
-# Leadership and Management
+# 2.3 Leadership and Management
 
 ## Key Functions
 
@@ -475,7 +476,7 @@ Strong and rule based leadership. Relies on following instructions and orders.
 
 Leadership that focus on employees' input.
 
-# Motivation
+# 2.4 Motivation
 
 ## Motivational Theory
 
@@ -533,3 +534,7 @@ This works for creative tasks that require hard levels of skill.
 - Empowerment
 - Opportunity to make a difference
 - Teamwork
+
+# 2.5 Organizational Culture (HL Only)
+
+# 2.6 Industrial/Employee Relations (HL Only)

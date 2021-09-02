@@ -1,12 +1,14 @@
 ---
-title: Introduction to Business Management
+title: Business Organization and Environment
 description: Unit 1 of Business Management
 ---
+> Unit 1: Business Organization and Environment
+
+# 1.1 Introduction 
 
 > __Business Functions__<br>
 > Human Resources $\rightarrow$  Finance and accounts $\rightarrow$  Marketing (Product, Price, Place, Promotion) $\rightarrow$  Market$ \rightarrow$  Operations 
 
-# 1.1 Introduction 
 ## Role of Businesses
 (_Can help and harm society_)
 

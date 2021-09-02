@@ -2,8 +2,9 @@
 title: Finance and Accounts
 description: Unit 3 of Business Management
 ---
+> Unit 3: Finance and Accounts
 
-# Sources of Finance
+# 3.1 Sources of Finance
 
 ## The Role of Finance
 
@@ -135,7 +136,7 @@ Sole traders and Partnerships have access to mostly internal sources of finance.
 They can also take loans and use trade credit.
 Bigger corporation generally cannot use personal funds, but can take advantage of equity for financing.
 
-# Cost and Revenue
+# 3.2 Costs and Revenue
 
 In order for a business to make money, its revenue must be larger than its cost.
 In this section, we will discuss the different cost and revenue of a company.
@@ -173,7 +174,7 @@ Many companies do not earn money from just one source.
 For example, a movie theater do not earn money just from selling tickets, but also food and drinks.
 Or newspapers that do not earn money just from selling newspapers, but also from advertisements.
 
-# Break-Even Analysis
+# 3.3 Break-Even Analysis
 
 In order to maintain a health revenue and cost relationships, many companies use `break even analysis` to plan ahead.
 Break even analysis allows a company to find how much it need to sell in order to _break even_ (profit is greater than zero).
@@ -214,7 +215,7 @@ A company can use break even analysis predict how changes in production can chan
 However, break even analysis is not very accurate.
 It ignores a companies' inventory and economies of scale. It assumes all products are sold at the same price.
 
-# Final Accounts
+# 3.4 Final Accounts
 
 In order for business to understand what is going on in their company, they often gather data to create a final account.
 A final account provides insight into the finance of the company overall.
@@ -318,7 +319,7 @@ The reducing balance method assumes the asset reduce in value by a percent of it
 The straight line method is easier to calculate, and easy to plan around.
 However, it is not as accurate as the reducing balance method.
 
-# Profitability and Liquidity Ratio Analysis
+# 3.5 Profitability and Liquidity Ratio Analysis
 
 ## Profitability and Efficiency Ratio
 
@@ -401,7 +402,7 @@ Evaluate this ratio similar to the current ratio.
 To improve the acid test ratio, a company can improve the current ratio.
 They can also increase sales, which can turn stock into current assets.
 
-# Efficiency Ratio Analysis
+# 3.6 Efficiency Ratio Analysis (HL Only)
 
 In this section, we will continue to look at ratios.
 This section focuses on ratios that improve a company's efficiency.
@@ -450,7 +451,7 @@ $$\texttt{Gearing Ratio} = \frac{\textrm{Loan Capital}}{\textrm{Capital Employed
 
 To improve the gearing ratio, a company can increase retained profit. They can also pay up long term loans or swap debt for equity.
 
-# Cash flow
+# 3.7 Cash Flow (HL Only)
 
 `Cash Flow` measure the amount of cash entering and leaving a company.
 In order for a company to survive, they have to keep a positive cash flow.
@@ -550,7 +551,7 @@ Cash flow forecasting is only as accurate as the data provided.
 Forecasting in general is also hard to perform, especially without information on competitors or changes in the market.
 Unexpected events such as sudden breakdown in machinery can result in a deviation from the forecast.
 
-# Investment Appraisal
+# 3.8 Investment Appraisal
 
 When considering an investment, it is best to evaluate the investment.
 We can measure this with 3 major factors:
@@ -637,7 +638,7 @@ Factor in qualitative techniques, such as:
 - Product Portfolio Analysis
 - Market Research Results
 
-# Budgets
+# 3.9 Budgets (HL Only)
 
 Budgeting is the act of creating `budgets`, plans for the business in the up coming years.
 Budgeting help companies measure goals and find out how well they did.

@@ -15,12 +15,8 @@ Physical/Financial/Human Resources $\rightarrow$ or Factors of Production:
 
 Goods or Services produced by a business
 
-<<<<<<< HEAD
-#### ___Processes___:
-=======
 `Processes`
 
->>>>>>> ff4ee7fc7b4200e8451fcc81a6f5693595f24124
 (_Value Added to Raw Material_)
 Manufacturing, food processing, construction, etc. 
 

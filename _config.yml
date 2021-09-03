@@ -26,7 +26,7 @@ google_analytics: G-6JLPC6QDX6
 baseurl: "/web-notes" # the subpath of your site, e.g. /blog
 
 # This is mostly for testing
-url: "https://cookieuzen.github.io" # the base hostname & protocol for your site
+url: "https://notes.uspace.xyz" # the base hostname & protocol for your site
 
 # Social (First three Required)
 repo: "https://github.com/cookieuzen/web-notes"

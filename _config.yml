@@ -77,6 +77,10 @@ collections:
     output: true
     permalink: /:collection/:path
 
+#plugins
+plugins:
+  - jekyll-redirect-from
+
 # Defaults
 defaults:
   - scope:

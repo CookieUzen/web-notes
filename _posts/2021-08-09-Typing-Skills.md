@@ -1,9 +1,9 @@
 ---
-title: "Let words and commands flow through your hands like water"  
-subtitle: "Work Effectiveness Part 1: How touch-typing and keyboard shortcuts can save your life"  
+title: "let words and commands flow through your hands like water"  
+subtitle: "work effectiveness part 1: how touch-typing and keyboard shortcuts can save your life"  
 date: 2021-08-09
-categories: Productivity
-author: Cobbi Liu
+categories: productivity
+author: cobbi liu
 ---
 
 **Touch Keyboarding:** The art of doing things on a keyboard without looking at it.  

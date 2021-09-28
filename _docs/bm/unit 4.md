@@ -42,10 +42,131 @@ Marketing must work with each and every one of the business functions in order t
 - Ansoff matrix
 
 ## Marketing of Goods & Services
+<<<<<<< HEAD
+Use Marketing Mix: Product, price, promotion, place, as tools to meet demands.
+
+All four elements must meet customer needs, high quality, and appropriate pricing (gum shouldn't be high priced and won't be considered "cheap" or "bad"). Advertising campaigns will be carried out in the right locations. 
+
+However, there are differences when dealing with goods or services. Goods emphasize packaging, while services' quality must align with price. Services which include tangible aspects such as hotels with food must also deal with aesthetics.  
+
+### Services Marketing Mix
+Three more marketing mix elements are added to help:
+
+- People
+- Processes
+- Physical Evidence
+(Chapter 4.6)
+
+Services must be wary of physical evidences which convey their quality. A good Internet Service Provider (ISP; ChinaNet, AT&T...) might provide nice routers for you. 
+
+### Blend
+The above concepts are important because many business operate with a mix of both goods and services. Music is a good example, concerts and online livestreams are services, while albums and physical souvenirs are goods. 
+=======
 
 **Tbd**
+>>>>>>> 8ea4fc07af35a7dd2d9352340a75d7eac2645558
 
 ## Product and Market Orientation
+*Product development; R&D*
+
+### Product Orientation
+Companies will prioritise R&D over market research—inward facing. Examples include Apple, who have faith in their team to come up with new ideas which can be marketed later on, for example, entering new markets or *creating* demand.
+
+This focus can create ground-breaking developments, which can be patented, and used as a Unique Selling Point (USP). For example, KPOP bands have a USP of vocals, rapping, dancing, all in one, which is rare in the west.
+
+However, there are cases where investment does not need to good sales, for example, Concorde, a supersonic jet that could cross the Atlantic under 4 hours, but was so expensive only 14 planes were sold. 
+
+**Advantages**
+- Innovative products; Patents
+- USP
+- High quality product
+- Investment in technology
+- Little competition
+- Economies of scale
+
+**Disadvantages**
+- No guarantee of sales
+- R&D is expensive
+- May miss other opportunities
+- Narrow branding
+- Obsoletion risk
+
+### Market Orientation
+Needs of the customer > Everything else. 
+
+Extensive continuous market research will guide decision-making, providing more guarantee for acceptance. Most successful companies do this. Coca-Cola has 500+ brands, and Amazon personalizes shopping. 
+
+However, market research is open, and thus competitors can do the same. It may become harder to create a USP, and competition will lower profit and market share. Market research done wrong is also devastating.
+
+**Advantages**
+- Products likely to conform to needs
+- Results in more focused production/strategy
+- Quality of marketing activities is improved as needs are researced
+- Repeat customers $\rightarrow$ Long-term profitability. 
+
+**Disadvantages**
+- Less unique products
+- More competition
+- All depends on market research
+- Market changes quickly, adapatation is challenging
+- Risk of underestimating customers
+
+## Social Marketing
+*not to be confused with "social media marketing"*
+
+Aims to influence societal behavior in a beneficial way, such as to induce the habit of recycling. The process is similar to commercial marketing. *Objective--target--marketing mix--control tools*. 
+
+However, there are indeed differences with commercial marketing, especially with objectives and tools. 
+
+### Marketing Objectives
+
+**Social Marketing**
+*Changing Behavior*
+
+- Environment, public health, vaccinations, smoking/alcohol/drugs, anti-social
+
+Governments spend a significant portion of taxes on advertising campaigns to improve quality of life and public facilities. 
+
+**Commercial Marketing**
+*Meeting Needs*
+
+- Increasing market share, brand recognition/loyalty
+
+Advertising campaigns are expensive and should achieve the above to be successful, raising sales. Rebranding products for different markets is often a good strategy. 
+
+### Control Tools
+> "Half the money I spent on advertising is wasted; the trouble is I don't know which half" 
+> --John Wanamaker
+
+**Social Marketing**
+
+It is hard to evaluate success, but we can look at related statistics. For example, public health campaigns might look for reduction in bad behavior over an *extensive* period (for there to be noticeable effects). 
+
+We must also beware of other factors which may have caused such changes, which may form a larger picture. Trying to quantify some changes, such as reduction in emissions, may also be difficult given its numerous sources and checkpoints. 
+
+## Market Share & Leadership
+
+### Market Share
+
+Measures value of sales compared to the whole market, being careful of market definition and time periods. 
+
+Market Share(%) $= \frac{\textrm{Product Sales}}{\textrm{Total Market Sales}}\cdot 100$
+
+Can also look at volume; Quantity of items rather than value. Can be used in conjunction with value share as there may be a relationship between user proportion and revenue—smartphone brand users and respective brand values.
+
+Market Share(%) $= \frac{\textrm{No. Units sold by firm}}{\textrm{Total volume sold in market}} \cdot 100$
+
+### Market Leadership
+
+The brand/company with the highest market share will easily gain recognition due to its market presence. 
+
+**Adantages**:
+- Ease of access to distribution channels
+- Brand recognition
+- Economies of scale
+- Price leadership
+
+**Brand Recognition**
 
 
 # 4.2 Marketing Planning

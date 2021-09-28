@@ -4,7 +4,7 @@ description: Unit 4 of Business Management
 ---
 
 > Unit 4: Marketing
-> 
+
 > "Marketing is the management process responsible for identifying, anticipating, and satisfying customer requirements profitably."
 
 # 4.1 Role of Marketing
@@ -18,28 +18,31 @@ Marketing must work with each and every one of the business functions in order t
 - **Operations Function**: Market research is pivotal in guiding R&D (Research and Development), and vice a versa, innovations will be sent to be marketed. Sales forecasts are useful to determine capacity to meet demand. 
 
 ## Market
+
 1. A place for interation between buyers and sellers
-- Taobao
-- Mall
-- Stocks
+	- Taobao
+	- Mall
+	- Stocks
 2. A location
-- Country
-- City
-- Area
+	- Country
+	- City
+	- Area
 3. A type of product
-- Food
-- Technology
-- Toys
+	- Food
+	- Technology
+	- Toys
 4. Mix of 2/3, (i.e. Arctic Banana Juice Market)
 
 ## Market Characteristics
+
 - Product life cycle
 - Boston consulting group matrix
 - STEEPLE
 - SWOT
-- Ansoff
+- Ansoff matrix
 
 ## Marketing of Goods & Services
+
 **Tbd**
 
 ## Product and Market Orientation

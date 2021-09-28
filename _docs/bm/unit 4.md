@@ -42,7 +42,7 @@ Marketing must work with each and every one of the business functions in order t
 - Ansoff matrix
 
 ## Marketing of Goods & Services
-<<<<<<< HEAD
+
 Use Marketing Mix: Product, price, promotion, place, as tools to meet demands.
 
 All four elements must meet customer needs, high quality, and appropriate pricing (gum shouldn't be high priced and won't be considered "cheap" or "bad"). Advertising campaigns will be carried out in the right locations. 
@@ -61,10 +61,6 @@ Services must be wary of physical evidences which convey their quality. A good I
 
 ### Blend
 The above concepts are important because many business operate with a mix of both goods and services. Music is a good example, concerts and online livestreams are services, while albums and physical souvenirs are goods. 
-=======
-
-**Tbd**
->>>>>>> 8ea4fc07af35a7dd2d9352340a75d7eac2645558
 
 ## Product and Market Orientation
 *Product development; R&D*

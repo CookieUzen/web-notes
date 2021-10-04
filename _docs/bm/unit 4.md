@@ -162,8 +162,74 @@ The brand/company with the highest market share will easily gain recognition due
 - Economies of scale
 - Price leadership
 
-**Brand Recognition**
+**Distribution**
+Retailers will stock in-demand products, with the variety decreasing for smaller retailers. For example, smaller convenience stores in China might only sell Coke, and not Pepsi, given its popularity in China. This will induce a positive feedback loop where a high market share supports strong sales.   
 
+**Brand Recognition**
+Market leaders will likely have high brand recognition, improving sales. Some brands are successful to the point of "becoming" their category (i.e. Photoshopping, Googling).As consumers understand the brand's message and product range, it will always be considered.
+
+**Economies of Scale (Ch. 1.6)**
+Refer to cost savings which come from a large number of products—market leader enjoys lower total cost. This can be because they are allowed to buy in bulk, and have experienced managers. Expensive capital equipment will also be made up for by a high output $\rightarrow$ *price leadership.*
+
+**Price Leadership**
+Leaders can lower prices to gain more market share or maintain them to increase profit, even when competitors have to raise. Competitors will have to react and try to analyze the leader's strategy. Leaders can gain a lot of control, and their pricings may be considered industry standard–a problem for competitors if they cannot afford it. 
+
+## Marketing Objectives.
+Marketing objectives help the function stay on course and accountable, and they must be inline with corporate objectives. Often, they are set through the SMART format. 
+
+- **S**—Specific
+- **M**–Measurable
+- **A**—Attainable
+- **R**—Realistic
+- **T**—Time Focused
+
+### For-Profit Organizations
+*Sole traders, partnerships, companies, cooperatives, microfinance providers, public-private partnership*
+
+Objective types are selected based on factors such as management style. A confident manager might set ambitious and challenging targets. 
+
+Other factors may include national culture (Geert Hofsteded's Cultural Dimensions). For example, as mentioned in previous chapters, Japanese companies are more likely to set long-term objectives than American ones.  
+
+**Examples (By Type):**
+- Gain 25% market share in 2 years *(Market Share)*
+- At least 20% of sales come from repeat customers *(Brand Loyalty)*
+- At least 50% of the target market can name our brand in surveys *(Brand Recognition)*
+
+### Non-Profit Organizations
+*Charities, NGOs*
+
+Objectives are for enriching society, rather than the company itself. Such organizations vary greatly in size and field, leading to different objectives. Anti-bullying charities might look to promote measures, while Covid-19 charities might look to raise funds for donations. 
+
+**Examples (By Type):**
+- Raise at least RMB 1,000,000 *(Fundraising)*
+- 30% reduction in teenage smoking by 2022 *(Changinb behavior)*
+- Achieve at least 51% awareness of ivy trafficking *(Improving awareness)*
+
+## Evolution of Marketing Strategies
+Marketing strategies must constantly evolve through market research and be in-sync with the external environment. It can b affected by: 
+
+**Changing Customer Preferences**
+Fashion, technology, culture, and economy are all major factors in changing consumer demands. Retailers, for example, must always stay on top of trends. H&M aims to have *"new clothes coming into store almost everyday"*
+
+**Innovation**
+Innovation in the 21st century is blazing fast. Many product oriented companies, for example, push out new products in very short times. Product life cycles in mature markets are shortened, and even successful products may find themselves becoming obsolete within months (See iPod vs Zune).
+
+**Ethical Considerations**
+*Decisions and actions governed by morality*
+
+Ethical standards are subjective and subject to constant change. They are also unique to cultures or consumer groups. Upholding these standards can lead to USPs, in turn generating revenue and loyalty. For example:
+
+- Selling environmentally friendly ('green') products
+		- Tesla Motors: Electric Battery Cars—Lowered carbon emissions. 
+- Ethical treatment of workers 
+		- Offering good working conditions and pay—improve brand image and employee motivation.  
+- Ethical treatment of suppliers and ethical sourcing
+		- Retailers may pressure suppliers to reduce operating costs, often by mistreatment of workers. 
+		- Source materials may also come from unethical processes, such as Cobalt from African child labor used in smartphones. 
+		- See "Fair Trade"
+
+**Cultural Differences**
+In a world where globalization proliferates, multinational corporations target a diverse range of markets all around the world. Marketing adequately in different geographical regions calls for a good cultural understanding. 
 
 # 4.2 Marketing Planning
 

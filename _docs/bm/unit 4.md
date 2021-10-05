@@ -324,6 +324,7 @@ The marketing mix is formed by the Four P's.
 4. Place
 
 ### Product
+- Sourcing from ethical companies
 
 Products are broken down into good and services.
 Goods are things that can be physically interacted with (buying a movie DVD).
@@ -350,6 +351,23 @@ The choice from whether to use distributors, or where the physical retail stores
 ## Adjusting the Marketing Mix
 
 Different organizations have different goals, and the marketing mix should be adjusted accordingly.
+
+
+
+# 4.3 Sales Forecasting
+
+Sales forecasting is used by companies to predict future sales levels, and it is highly beneficial when accurate. Sufficient preparations can be made in advanced in response. 
+
+## Trend Analysis
+
+Patterns in time-series (statistics over time) data are analyzed for predictions. These trends are helpful for:
+
+- Understanding the rise and fall of sales. 
+- Seasonal changes (especially for seasonal businesses like hotels). 
+- Cyclical fluctuations, as a result of economic growth or decline (2008 Financial Crises). 
+- Pinpointing random or sporadic fluctuations which are less worrisome or unsolvable. 
+
+Let's say a 
 
 # 4.4 Market Research
 
@@ -391,3 +409,13 @@ Place based research is responsible for finding out the method of distribution o
 ## Methods of Sampling
 
 ## Ethical Considerations
+
+
+
+
+
+
+
+
+
+

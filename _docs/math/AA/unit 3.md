@@ -7,7 +7,7 @@ description: Unit 2 of Math AA HL
 
 ## Forms of Quadratics
 
-A quadratic function have 3 forms: Standard form, Vertex form, and Intercept form.
+A quadratic function have 3 forms: Standard form, Vertex form, and X-Intercept form.
 
 $$\begin{aligned}
 	y &= ax^2 + bx + c \\

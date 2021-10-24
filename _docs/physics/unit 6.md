@@ -3,8 +3,60 @@ title: Circular Motion and Gravitation
 description: Unit 6 of Physics
 ---
 
-# Circular Motion
 
+# 6.1 Circular Motion
+
+## Essential idea: ​
+
+A force applied perpendicular to a body’s displacement can result in its circular motion. ​
+
+## Nature of science: ​
+
+Observable universe: Observations and subsequent deductions led to the realization that the force must act radially inwards in all cases of circular motion.
+
+## Understandings: ​
+
+• Period, frequency, angular displacement and angular velocity ​
+
+• Centripetal force ​
+
+• Centripetal acceleration 
+
+## Applications and skills: ​
+
+• Identifying the forces providing the centripetal forces such as tension, friction, gravitational, electrical, or magnetic ​
+
+• Solving problems involving centripetal force, centripetal acceleration, period, frequency, angular displacement, linear speed and angular velocity ​
+
+• Qualitatively and quantitatively describing examples of circular motion including cases of vertical and horizontal circular motion 
+
+## Guidance: ​
+
+• Banking will be considered qualitatively only
+
+## International-mindedness: ​
+
+• International collaboration is needed in establishing effective rocket launch sites to benefit space programs ​
+
+## Theory of knowledge: ​
+
+• Foucault’s pendulum gives a simple observable proof of the rotation of the earth, which is largely unobservable. How can we have knowledge of things that are unobservable? 
+
+## Utilization: ​
+
+• Motion of charged particles in magnetic fields (see Physics sub-topic 5.4) ​
+
+• Mass spectrometry (see Chemistry sub-topics 2.1 and 11.3) ​
+
+• Playground and amusement park rides often use the principles of circular motion in their design
+
+## Aims: ​
+
+• Aim 6: experiments could include (but are not limited to): mass on a string; observation and quantification of loop-the-loop experiences; friction of a mass on a turntable ​
+
+• Aim 7: technology has allowed for more accurate and precise measurements of circular motion, including data loggers for force measurements and video analysis of objects moving in circular motion 
+
+## Circular Motion Notes
 When an object is moving in a circle, it is undergoing circular motion.
 A uniformed circular motion is when the linear velocity stays constant.
 We will only be looking at uniformed circular motion in IB.
@@ -66,7 +118,53 @@ friction between the car and ground is the centripetal force. For a
 satellite that is undergoing circular motion, its centripetal force is
 gravity.
 
-# Newton's Law of Gravitation
+# 6.2 Newton's Law of Gravitation
+
+## Essential idea: 
+The Newtonian idea of gravitational force acting between two spherical bodies and the laws of mechanics create a model that can be used to calculate the motion of planets.​
+
+## Nature of science:  
+Laws: Newton’s law of gravitation and the laws of mechanics are the foundation for deterministic classical physics. These can be used to make predictions but do not explain why the observed phenomena exist.
+
+## Understandings: ​
+
+• Newton’s law of gravitation ​
+
+• Gravitational field strength ​
+
+## Applications and skills: ​
+
+• Describing the relationship between gravitational force and centripetal force ​
+
+• Applying Newton’s law of gravitation to the motion of an object in circular orbit around a point mass ​
+
+• Solving problems involving gravitational force, gravitational field strength, orbital speed and orbital period ​
+
+• Determining the resultant gravitational field strength due to two bodies
+
+## Guidance: ​
+
+• Newton’s law of gravitation should be extended to spherical masses of uniform density by assuming that their mass is concentrated at their centre ​
+
+• Gravitational field strength at a point is the force per unit mass experienced by a small point mass at that point ​
+
+• Calculations of the resultant gravitational field strength due to two bodies will be restricted to points along the straight line joining the bodies
+
+## Theory of knowledge: ​
+
+• The laws of mechanics along with the law of gravitation create the deterministic nature of classical physics. Are classical physics and modern physics compatible? Do other areas of knowledge also have a similar division between classical and modern in their historical development? 
+
+## Utilization: ​
+
+• The law of gravitation is essential in describing the motion of satellites, planets, moons and entire galaxies ​
+
+• Comparison to Coulomb’s law (see Physics sub-topic 5.1) ​
+
+## Aims: ​
+
+• Aim 4: the theory of gravitation when combined and synthesized with the rest of the laws of mechanics allows detailed predictions about the future position and motion of planets
+
+
 
 Gravity is a force one mass exerts on another.
 

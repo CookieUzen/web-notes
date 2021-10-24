@@ -41,3 +41,4 @@ We want to create an interactive online "Utopia" for IB students, and in the fut
 * Chatting (way in the future)
 
 [Open an issue]({{ site.repo }}/issues)
+ 

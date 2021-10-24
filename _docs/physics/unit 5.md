@@ -69,7 +69,15 @@ Modeling: Electrical theory demonstrates the scientific thought involved in the 
 
 • Aim 6: experiments could include (but are not limited to): demonstrations showing the effect of an electric field (eg. using semolina); simulations involving the placement of one or more point charges and determining the resultant field ​
 
-• Aim 7: use of computer simulations would enable students to measure microscopic interactions that are typically very difficult in a school laboratory situation 
+• Aim 7: use of computer simulations would enable students to measure microscopic interactions that are typically very difficult in a school laboratory situation
+
+## Data Booklet References:
+$$I=\frac{q}{t}$$
+
+$$F=\frac{kq_{1}q_{2}}{r^2}$$
+
+$$k=\frac{1}{4$\pi *\eplison$}$$
+
 
 # 5.2 Heating Effect of Electric Currents:
 

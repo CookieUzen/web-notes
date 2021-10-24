@@ -1,24 +1,24 @@
 ---
 title: Sequence and Series
-description: Unit 1 of Math AA HL
----
-
-# Sequence, Series, and Sigma Notation
-
-A sequence is a list of number that is written in a defined order.
-A sequence usually follows a predefined list of rules.
-The numbers of the sequence are called terms.
-Sometimes, the sequence is also referred to as a progression.
-
-$$\begin{aligned}\sum_{n=a}^{b} c\end{aligned}$$
-
-The Sigma Notation is way to write the addition of a sequence.
-Sigma notation is written above, $a,b,c$ are the variables.
-$a$ represents the starting value of $n$.
-$b$ represents the largest value of $n$.
-$c$ is the equation that is to be added.
-
-# Arithmetic and Geometric Sequences and Series
+description: Unit 1 of Math AA HL 
+--- 
+ 
+# Sequence, Series, and Sigma Notation 
+  
+A sequence is a list of number that is written in a defined order. 
+A sequence usually follows a predefined list of rules. 
+The numbers of the sequence are called terms. 
+Sometimes, the sequence is also referred to as a progression 
+ 
+$$\begin{aligned}\sum_{n=a}^{b} c\end{aligned}$$ 
+ 
+The Sigma Notation is way to write the addition of a sequence. 
+Sigma notation is written above, $a,b,c$ are the variables. 
+$a$ represents the starting value of $n$. 
+$b$ represents the largest value of $n$.  
+$c$ is the equation that is to be added. 
+ 
+# Arithmetic and Geometric Sequences and Series 
 
 ## Arithmetic Sequence
 

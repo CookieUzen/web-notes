@@ -159,8 +159,9 @@ Although Ohm and Barlow published their findings on the nature of electric curre
 ## Data Booklet References:
 
 __Kirchoff's Circuit Laws:__
-$$
+
 \begin{aligned}
+$$
 	\Sigma V &= 0(loop) \\
 	\Sigma I &= 0(junction) \\
 	R &= \frac{V}{I} \\
@@ -169,9 +170,8 @@ $$
 	R_{Total} &= R_{1} + R_{2} + \dots \\
 	\frac{1}{R_{Total}} &= frac{1}{R_1} = \frac{1}{R_2} \dots \\
 	\rho &= \frac{RA}{L} \\
-	
-\end{aligned}
 $$
+\end{aligned}
 
 # Electric Cells:
 

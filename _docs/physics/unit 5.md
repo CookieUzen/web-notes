@@ -78,6 +78,9 @@ $$
 	I &= \frac{q}{t} \\
 	F &= \frac{kq_{1} q_{2}}{r^2} \\
 	k &= \frac{1}{4\pi \epsilon_0}
+	V &= \frac{W}{q}
+	E &= \frac{F}{q}
+	I &= nAvq
 \end{aligned}
 $$
 
@@ -152,6 +155,22 @@ Although Ohm and Barlow published their findings on the nature of electric curre
 • Aim 3: electrical techniques, both practical and theoretical, provide a relatively simple opportunity for students to develop a feeling for the arguments of physics ​
 
 • Aim 6: experiments could include (but are not limited to): use of a hot-wire ammeter as an historically important device; comparison of resistivity of a variety of conductors such as a wire at constant temperature, a filament lamp, or a graphite pencil;
+
+## Data Booklet References:
+
+$$
+\begin{aligned}
+	Kirchoff's Circuit Laws:
+	\Sigma V &= 0(loop)
+	I &= \frac{q}{t} \\
+	F &= \frac{kq_{1} q_{2}}{r^2} \\
+	k &= \frac{1}{4\pi \epsilon_0}
+	V &= \frac{W}{q}
+	E &= \frac{F}{q}
+	I &= nAvq
+\end{aligned}
+$$
+
 
 # Electric Cells:
 

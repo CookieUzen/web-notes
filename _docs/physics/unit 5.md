@@ -168,7 +168,7 @@ $$
 	F &= \frac{V}{I} = I^2R = \frac{V^2}{R} \\
 	R_{Total} &= R_{1} + R_{2} + \dots \\
 	\frac{1}{R_{Total}} &= frac{1}{R_1} = \frac{1}{R_2} \dots \\
-	\rho &= \frac{RA}{L}
+	\rho &= \frac{RA}{L} \\
 	
 \end{aligned}
 

@@ -75,7 +75,7 @@ Modeling: Electrical theory demonstrates the scientific thought involved in the 
 
 $$
 \begin{aligned}
-	I &= \frac{q}{t} \\
+	\\ I &= \frac{q}{t} \\
 	F &= \frac{kq_{1} q_{2}}{r^2} \\
 	k &= \frac{1}{4\pi \epsilon_0} \\
 	V &= \frac{W}{q} \\
@@ -171,7 +171,7 @@ $$
 	\rho &= \frac{RA}{L} \\
 	
 \end{aligned}
-
+$$
 
 # Electric Cells:
 

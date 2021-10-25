@@ -160,8 +160,8 @@ Although Ohm and Barlow published their findings on the nature of electric curre
 
 __Kirchoff's Circuit Laws:__
 
-\begin{aligned}
 $$
+\begin{aligned}
 	\Sigma V &= 0(loop) \\
 	\Sigma I &= 0(junction) \\
 	R &= \frac{V}{I} \\
@@ -170,8 +170,8 @@ $$
 	R_{Total} &= R_{1} + R_{2} + \dots \\
 	\frac{1}{R_{Total}} &= frac{1}{R_1} = \frac{1}{R_2} \dots \\
 	\rho &= \frac{RA}{L} \\
-$$
 \end{aligned}
+$$
 
 # Electric Cells:
 
@@ -241,10 +241,10 @@ Long-term risks: Scientists need to balance the research into electric cells tha
 
 • Aim 10: improvements in cell technology has been through collaboration with chemists
 
+## Data Booklet References:
 $$
 \begin{aligned}
 	\epsilon &= I(R+r)
-	
 \end{aligned}
 $$
   

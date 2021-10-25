@@ -240,4 +240,11 @@ Long-term risks: Scientists need to balance the research into electric cells tha
 • Aim 8: although cell technology can supply electricity without direct contribution from national grid systems (and the inherent carbon output issues), disposal of batteries and the chemicals they use can introduce environmental pollutants​
 
 • Aim 10: improvements in cell technology has been through collaboration with chemists
+
+$$
+\begin{aligned}
+	\epsilon &= I(R+r)
+	
+\end{aligned}
+$$
   

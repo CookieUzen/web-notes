@@ -72,12 +72,14 @@ Modeling: Electrical theory demonstrates the scientific thought involved in the 
 • Aim 7: use of computer simulations would enable students to measure microscopic interactions that are typically very difficult in a school laboratory situation
 
 ## Data Booklet References:
-$$I=\frac{q}{t}$$
 
-$$F=\frac{kq_{1}q_{2}}{r^2}$$
-
-$$k=\frac{1}{4$\pi *\eplison$}$$
-
+$$
+\begin{aligned}
+	I &= \frac{q}{t} \\
+	F &= \frac{kq_{1} q_{2}}{r^2} \\
+	k &= \frac{1}{4\pi \epsilon_0}
+\end{aligned}
+$$
 
 # 5.2 Heating Effect of Electric Currents:
 

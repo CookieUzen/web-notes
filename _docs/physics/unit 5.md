@@ -158,18 +158,19 @@ Although Ohm and Barlow published their findings on the nature of electric curre
 
 ## Data Booklet References:
 
+__Kirchoff's Circuit Laws:__
 $$
 \begin{aligned}
-	Kirchoff's Circuit Laws:
-	\Sigma V &= 0(loop)
+	\Sigma V &= 0(loop) \\
+	\Sigma I &= 0(junction) \\
+	R &= \frac{V}{I} \\
 	I &= \frac{q}{t} \\
-	F &= \frac{kq_{1} q_{2}}{r^2} \\
-	k &= \frac{1}{4\pi \epsilon_0}
-	V &= \frac{W}{q}
-	E &= \frac{F}{q}
-	I &= nAvq
+	F &= \frac{V}{I} = I^2R = \frac{V^2}{R} \\
+	R_{Total} &= R_{1} + R_{2} + \dots \\
+	\frac{1}{R_{Total}} &= frac{1}{R_1} = \frac{1}{R_2} \dots \\
+	\rho &= \frac{RA}{L}
+	
 \end{aligned}
-$$
 
 
 # Electric Cells:

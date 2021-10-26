@@ -118,6 +118,11 @@ friction between the car and ground is the centripetal force. For a
 satellite that is undergoing circular motion, its centripetal force is
 gravity.
 
+## Data Booklet References:
+
+$$
+F &= mv^2/r
+
 # 6.2 Newton's Law of Gravitation
 
 ## Essential idea: 

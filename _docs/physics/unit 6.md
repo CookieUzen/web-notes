@@ -121,7 +121,14 @@ gravity.
 ## Data Booklet References:
 
 $$
-F &= mv^2/r
+\begin{aligned}
+  F & = \omega r \\
+  a &= \frac{v^2}{r} = frac{4 \pi^2 r}{T^2} \\
+  F &= mv^2/r = m \omega^2/r \\
+  
+  
+\end{aligned}
+$$
 
 # 6.2 Newton's Law of Gravitation
 
@@ -204,3 +211,13 @@ $$V_{orbit} = \sqrt{\frac{GM}{r}}$$
 
 Further expansion of this equation can give us Kepler's third law.
 $$T^2 \propto r^3$$
+
+## Data Booklet References:
+
+$$
+\begin{aligned}
+	\\ F &= \frac{GMm}{r^2} \\
+  g &= \frac{F}{m} \\
+  g &= G\ frac{M}{r^2} \\
+\end{aligned}
+$$

@@ -62,7 +62,7 @@ Patterns, trends and discrepancies: Graphs of binding energy per nucleon and of 
 
 $$
 \Delta E = \Delta mc^2
-
+$$
 
 In a nuclear equation:
 

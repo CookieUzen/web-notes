@@ -26,6 +26,16 @@ Accidental discovery: Radioactivity was discovered by accident when Becquerel de
 -Students will be required to solve problems on radioactive decay involving only integral numbers of half-lives ​
 -Students will be expected to include the neutrino and antineutrino in beta decay equations 
 
+## Data Booklet References:
+$$
+\begin{aligned}
+  E & = hf \\
+  \lambda &= \frac{hc}{E}
+  
+	
+\end{aligned}
+$$
+
 # 7.2 Nuclear Reactions:
 
 ## Essential idea: 
@@ -48,6 +58,11 @@ Patterns, trends and discrepancies: Graphs of binding energy per nucleon and of 
 -Solving problems involving the energy released in radioactive decay, nuclear fission and fusion ​
 -Sketching and interpreting the general shape of the curve of average binding energy per nucleon against nucleon number
 
+## Data Booklet References:
+
+$$
+\Delta E = \Delta mc^2
+
 
 In a nuclear equation:
 
@@ -55,6 +70,7 @@ In a nuclear equation:
 - Conservation of *charge*: Total charge must be equal on both sides.
 
 Binding energy, binding energy per nucleon!!!!
+
 
 # 7.3 The Structure of Matters:
 ## Essential idea: 

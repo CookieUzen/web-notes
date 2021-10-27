@@ -123,7 +123,7 @@ gravity.
 $$
 \begin{aligned}
   F & = \omega r \\
-  a &= \frac{v^2}{r} = frac{4 \pi^2 r}{T^2} \\
+  a &= \frac{v^2}{r} = \frac{4 \pi^2 r}{T^2} \\
   F &= mv^2/r = m \omega^2/r \\
   
   
@@ -218,6 +218,6 @@ $$
 \begin{aligned}
 	\\ F &= \frac{GMm}{r^2} \\
   g &= \frac{F}{m} \\
-  g &= G\ frac{M}{r^2} \\
+  g &= G \frac{M}{r^2} \\
 \end{aligned}
 $$

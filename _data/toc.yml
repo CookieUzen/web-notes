@@ -61,19 +61,3 @@
           url: "docs/bm/unit 4"
     - title: "Chemistry"
       url: "docs/chem"
-    - title: "Getting Started"
-      url: "docs/getting-started"
-      children:
-        - title: Features
-          url: "docs/getting-started#getting-started"
-        - title: Development
-          url: "docs/getting-started#development"
-        - title: Customization
-          url: "docs/getting-started#customization"
-    - title: "Extras"
-      url: "docs/extras"
-      children:
-        - title: Quizzes
-          url: "docs/extras/example-quiz"
-        - title: Tags Page
-          url: "tags"

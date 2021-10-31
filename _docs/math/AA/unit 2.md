@@ -2,6 +2,7 @@
 title: Functions
 description: Unit 2 of Math AA HL
 ---
+> Unit 2: Functions
 
 # Functional Relationships
 

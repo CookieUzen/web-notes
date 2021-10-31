@@ -2,6 +2,7 @@
 title: Atomic, Nuclear, and Particle Physics
 description: Unit 7 of Physics
 ---
+> Unit 7: Atomic, Nuclear, and Particle Physics
 
 ## 7.1 Discrete Energy and Radioactivity
 

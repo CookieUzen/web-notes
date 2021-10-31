@@ -2,14 +2,11 @@
 title: Exponents and Logs
 description: Exponents and Logs
 ---
+> Exponents and logarithms
 
-Exponents and Logarithms
-========================
+# Exponents
 
-Exponents
----------
-
-### Identities
+## Identities
 
 Exponents have some simply identities.
 
@@ -28,17 +25,16 @@ $$\begin{aligned}
 	a^{-m} &= \frac{1}{a^m} \\
 	a^{\frac{m}{n}} &= \sqrt[n]{m}\end{aligned}$$
 
-### Solving Exponents
+## Solving Exponents
 
 When solving exponents, always look for similar base or similar
 exponents.
 
-Logs
-----
+# Logs
 
 $$\log_a{b}$$ $b$ has to be greater than or equal to 0.
 
-### Identities
+## Identities
 
 $$\begin{aligned}
 	\begin{dcases}

@@ -2,6 +2,7 @@
 title: Wave Phenomena
 description: Unit 9 of Physics
 ---
+> Unit 9: Wave Phenomena
 
 # 9.1 Simple Harmonic Motion
 

@@ -2,6 +2,7 @@
 title: Computer Organization
 description: Unit 2 of Computer Science
 ---
+> Unit 2: Computer Organization
 
 # Computer Architecture
 

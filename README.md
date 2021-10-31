@@ -50,7 +50,7 @@ You can then open your browser to [http://localhost:4000/web-notes](http://local
 
 # TODO
 - [ ] CSS
-	- [ ] modify heading/subtitles
+	- [x] modify heading/subtitles
 	- [ ] add highlight syntax
 - [ ] Organization
 	- [ ] table of content front page (liquid/javascipt?)
@@ -60,6 +60,7 @@ You can then open your browser to [http://localhost:4000/web-notes](http://local
 	- [ ] CS
 		- [ ] Unit 2 Logic Gates TODOs
 	- [ ] Math
+		- [ ] Fix Unit structures
 	- [ ] Business Management
 		- [ ] Unit 2 Ethics
 		- [ ] Unit 2 Structrue

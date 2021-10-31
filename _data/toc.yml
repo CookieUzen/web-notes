@@ -59,6 +59,8 @@
           url: "docs/bm/unit 3"
         - title: Marketing
           url: "docs/bm/unit 4"
+    - title: "Chemistry"
+      url: "docs/chem"
     - title: "Getting Started"
       url: "docs/getting-started"
       children:

@@ -10,9 +10,12 @@ This is a IBDP general notes platform for all HL and SL Students! This is a CAS 
 
 - Cobbi Liu
 - Uzen Huang
+- Alex Xue
 
 **Core Contributor**
-- Alex Xue
+- want to help out? 
+- fork this repository and submit a pull request
+- you can also email us
 
 ## Purpose
 

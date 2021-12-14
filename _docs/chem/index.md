@@ -3,6 +3,6 @@ title: Chemistry
 description: Index for Chemistry
 ---
 
-# Computer Science
+# Chemistry 
 
 This is the landing page for Chemistry.

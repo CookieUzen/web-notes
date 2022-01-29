@@ -135,6 +135,7 @@ Percent uncertainty is used in calculating multi variable uncertainty.
 Most equations have more than one variable.
 In an equation with many variables, there are also many uncertainty.
 When adding two variable, the uncertainty of the variables are added.
+
 $$
 \begin{aligned}
 	y &= a \pm b \\
@@ -143,6 +144,7 @@ $$
 $$
 
 When multiplying two variable, the percentage uncertainty of the variables are added.
+
 $$
 \begin{aligned}
 	y &= \frac{ab}{c} \\

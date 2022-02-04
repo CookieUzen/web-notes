@@ -49,6 +49,10 @@ The purpose of Change Management is move a company into a more efficient state, 
 
 ### Compatibility Issue
 
+Compatibility issues occurs when different software and hardware cannot work with each other.
+For example, you cannot run a Mac program on a Windows machine, or a Xbox game on a Playstation.
+When compatibility issues occurs with large business important technology (existing doors locks does not work with new electronic id system), change management have to be used to mitigate the issues.
+
 There may be compatibility issues when encountering a `Legacy System`.
 Legacy is a general term referring to old technology.
 For example, an old printer may be called a legacy printer.
@@ -58,6 +62,11 @@ There may also be compatibility issues when interacting with legacy systems, as 
 Although not all legacy systems have to updated.
 As long as the legacy system functions well and there are no better alternatives, they can be kept in a business.
 Administrators have to be careful in the case that legacy systems cannot be upgraded (due to software/hardware incompatibility).
+
+Another possible cause of change management is a `business merger`.
+Business mergers are when two or more business combine to reduce costs.
+In this case, the technologies of two companies should be combine.
+This may cause some `compatibility issues` (refer to next subsection).
 
 #### Four Strategies of Integration
 

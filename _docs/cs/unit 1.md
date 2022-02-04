@@ -73,25 +73,26 @@ Some clients install their software on their own premises, while other have the 
 
 `Software as a Service (SaaS)` is one of the methods of providing services.
 Software and data is hosted on a remote data center, where clients pay fees to access the services.
-SaaS relies heavily on the Internet. Some examples of SaaS are Dropbox, Gmail, and Salesforce.
+SaaS relies heavily on the Internet.
+Some examples of SaaS are Dropbox, Gmail, and Salesforce.
 
-#### Advantage
+**Advantage**
+- lower initial cost
+- Easier to install, maintain, and upgrade
+- Easily scalable, allowing for rapid growth
+- Requires less IT staff to manage
 
-SaaS is less expensive and have a lower initial cost.
-It is easier to install, maintain, and upgrade.
-It is easily scalable, allowing for rapid growth. It requires less IT staff to manage.
-
-#### Disadvantage
-
-However, SaaS requires a constant Internet connection.
-It is based on a monthly subscription.
-Since the information is stored on a remote server, there is no guarantee of security.
+**Disadvantage**
+- Requires a constant Internet connection
+- Less performant then locally hosted applications
+- Based on a monthly subscription
+- Since the information is stored on a remote server, there is no guarantee of security
 
 ### Alternative Installation Process
 
 Installing a new system is a necessary evil in many enterprises.
 Many users do not like to adjust to a new system, and changeover can cause many compatibility issue.
-There are four common approaches to software changeovers:
+In order to lessen the impact, there are four common approaches to software changeovers:
 
 #### Parallel
 
@@ -101,20 +102,23 @@ Only when the new system run smoothly for an extended period of time can the old
 
 Parallel changeover is the safest method, but the most time consuming.
 Due to both systems running at the same time, additional resources is needed to support both systems.
-This method is not effective if the old system and new system perform different tasks.
+This method is not effective if the old system and new system perform different tasks or accepts different input and output.
 
 #### Big Bang
 
 `Big Bang`, or `Direct Changeover` is a risky operation where the old system is retired immediately, and the new system is immediately put in use.
-This method should be only used for non critical systems.
+In the case that the new system fails, there is no other system to use.
+However, this system is also the fastest method.
+
+This method should be only used for non critical systems (printers, for example).
 In this case, all users need to be trained prior to the switch on the new system.
 
 #### Pilot
 
-A `Pilot Changeover` is used in a company with a lot of sites.
+A `Pilot Changeover` is used in a company with a lot of sites (physically separate locations).
 In a pilot changeover, new systems are introduced one site at a time.
 This method allows for a enterprises to test out the new system before implementing it fully.
-The feedback received from each system can be used to improve the changeover process at other sites.
+The feedback received from each site can be used to improve the changeover process at other sites.
 
 #### Phased
 
@@ -126,13 +130,14 @@ This approach allows for an extended training and adoption of the system, but ta
 
 `Data Migration` is the process of transferring data to a different format, storage type, or computer system.
 There are many problems that will occur when data is transfered between two systems.
-Errors such as incompatibility, corruption, virus, etc, can cause irreparable lost to the data.
-If it's possible, back up data before migrating.
+This can by a hard drive or downloading over the Internet.
+When migrating data, errors such as incompatibility, corruption, virus (and more), can cause irreparable lost to the data.
+If it is possible, back up data before migrating.
 To guarantee the safety of the data, following three steps when migrating data.
 
-1.  Plan
-2.  Migrate
-3.  Validate
+1.  Plan: plan out the migration process
+2.  Migrate: perform the data migration
+3.  Validate: check that the data is the same afterwards
 
 ### Testing
 
@@ -144,16 +149,17 @@ There are several forms of testing.
 	* _Normal Data:_ data program expects
 	* _Data at Limits:_ normal data that causes a program respose
 	* _Extreme Data:_ normal data outside of expected range
-	* _Abnormal Data:_ unexpected types of data
+	* _Abnormal Data:_ unexpected types otest the limits of the program (highest/lowest values)
 - __Alpha Testing:__ testing within development environment
 - __Beta Testing:__ testing given to selected, small, user base, collect feedback from users
 - __Dry-run Testing:__ programmer runs through algorithm with pen and paper
 - __Unit Testing:__ testing individual components of a program
+- __Integration Testing__: test the entire system at the same time to see if the different components work together
 - __User Acceptance Testing:__ determine of system satisfies user need
 - __Debugging:__ systematic progressing of finding and fixing bugs
 
-Sometimes, programs will be designed to test other programs.
-This help speed up the testing process.
+Sometimes, programs will be designed to test other programs (CI environement or debuggers).
+These programs help speed up the testing process.
 
 #### Validation and Verification
 
@@ -168,7 +174,7 @@ A verification method is checking for the password strength.
 
 Programs and systems become increasingly complex as more and more features are added.
 Often times, this will result in a confusing mess for users.
-Systematic and organized documentation can help with this issue.
+Systematic and organized documentation can help with this is
 In fact, documentation also help with further development of the software.
 
 There are two types of documentation:
@@ -220,17 +226,21 @@ We can prevent data loss by:
 
 `Redundency` is the term describing duplication of hardware.
 Redundancy allows for failsafe in case of hardware failure, reducing downtime.
-A `fail over` system will switch a failed device to its redundant failsafe.
+A `fail over` system will switch a failed device to its red (essentially having extra copies of the same hardware).
+
+Securing the system can also prevent data loss due to malicious software or people.
+- Installing an anti-virus
+- Using a firewall
 
 Back ups should follow the 3-2-1 rule:
-- 3 copies of data, 1 primary copy and 2 back ups
-- storing in 2 different types of media, (tape, NAS, etc)
-- Store one copy off site (cloud or other location)
+- 3 copies of data, 1 primary copy, and 2 back ups
+- storing in 2 different types of media, (tape, hard drives, solid state drives, etc)
+- Store one copy off-site (cloud or other physical location)
 
 ## Software Deployment
 
 Updating software is essential for maintaining a system.
-There are several methods of providing automatic updates:
+There are several methods of providing software updates:
 - __Patches:__ contains small changes that fix bugs and vulnerability
 - __Upgrades:__ contains new features
 - __Updates:__ improves the product in a minor way

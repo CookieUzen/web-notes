@@ -235,7 +235,7 @@ We can prevent data loss by:
 
 `Redundency` is the term describing duplication of hardware.
 Redundancy allows for failsafe in case of hardware failure, reducing downtime.
-A `fail over` system will switch a failed device to its red (essentially having extra copies of the same hardware).
+A `failover system `will switch a failed device to its red (essentially having extra copies of the same hardware).
 
 Securing the system can also prevent data loss due to malicious software or people.
 - Installing an anti-virus
@@ -260,38 +260,44 @@ There are several methods of providing software updates:
 ## Components of a Computer System
 
 A computer system is made up of several components:
-- __Hardware:__ physical elements
-- __Software:__ programs and instructions
+- __Hardware:__ physical devices such as a computer or a hard drive
+- __Software:__ programs, things that run on hardware and you cannot touch
 - __Peripheral Devices:__ auxiliary devices that can work with a computer (usb/screen)
 - __Computer Network:__ a group of computers connected together to share resources and data
 - __Human Resources:__ workers required in a computer system
 
 ### Client and Server
 
-There are many types of computer in a computer system, they mostly follow under the category of `client` and `server`.
+There are many types of computer in a computer system, they fall under the category of `client` and `server`.
+The list below is not a comprehensive list, as there are many types for clients and servers.
 - __Client:__ a computer that request and receive data on a network
 	* _Dumb Terminal_: terminal used for connecting to other computers
-	* _Thin Client:_ client with a certain amount of processing power, used similar to a dumb terminal
+	* _Thin Client:_ client with a certain amount of processing power, used to connect to other computers
 - __Server:__ a computer that responds to requests and sends information to other computers on the network
 	* _Email Server:_ send and receive electronic mail
-	* _Domain Name System:_ record down domain names to ip address
+	* _Domain Name System (DNS):_ record down domain names to ip address
+	* _Router:_ send data packets within a network (will be discussed in the networking unit)
 
 In a `Client-Server` network, clients are connected to a server.
 Where all the data and resources are stored on the server, the clients request the data from the server.
+On example of this is opening a website on a computer.
+In this case, our computer is the client, requesting data from the website's server.
 
-In a `Peer to Peer` network, computers can be both clients and servers.
+In a `Peer to Peer (P2P)` network, computers can be both clients and servers.
 Each computer send and requesting data.
+One such network is VoIP systems (Voice over IP, web phone calls like Discord).
+Every device in a call is both sending data (your voice) and receiving data (other people's voices).
 
 ### Social and Ethical Issues
 
 As the use of IT become more and more common, there are more and more ethical and social issues rising.
 Below is a list of some issues to be careful of:
-- __Reliability:__ when IT systems fails, there may be serious consequences
-- __Integrity:__ if an IT system provides inaccurate data, there may be serious consequences
-- __Privacy:__ IT systems gather large amounts of personal data, this data have to be private
-- __Anonymity:__ Whether the privacy issues with IT system can reveal a person's identity
+- __Reliability:__ when IT systems fails, there may be serious consequences (hospitals loosing patient records)
+- __Integrity:__ if an IT system provides inaccurate data, there may be serious consequences (inaccurate bank system)
+- __Privacy:__ IT systems gather large amounts of personal data, this data have to be private (leaked government databases on fingerprints and id number)
+- __Anonymity:__ Whether the privacy issues with IT system can reveal a person's identity (incognito mode and tracking in websites)
 - __Intellectual Property:__ does the development of IT make stealing IP easier? (copy and paste, pirated software/media)
-- __Security:__  if an IT system is unsecure, it may cause the issues above
+- __Security:__  if an IT system is insecure, it may cause the issues above (IT systems being hacked can allow the hacker to do unethicial things)
 - __The Digital Divide and Equality of Access:__ does everyone around the world have the same access to IT?
 
 One must consider the social and ethical problems of IT before implementing a system.
@@ -300,24 +306,39 @@ One must consider the social and ethical problems of IT before implementing a sy
 
 ### Stakeholders
 
-`Stakeholders` are people who are affected by an computer system.
+`Stakeholders` are people affected by a computer system.
 An `end-user` is a person who will use the computer system.
+End-users can be a stakeholder.
 Computer systems must be designed according to the needs of the stakeholders and the end-users.
 
-We can gather information on the stakeholders by direct observation, conducting interviews, and questionnaires.
-On the other hand, we can analyze existing systems or competing products.
+For example, an WiFi system for students at school.
+Students are the end-users (and stakeholders), as they connect to this WiFi.
+Teachers are an indirect stakeholder, as they now have to manage the student's increase in technology use due to WiFi.
 
 ### System Requirements
 
 There are many system requirements to designing a computer system.
 
 It is often useful to determine the type of processing a computer system have to perform beforehand:
+An document called _requirements specification_ contains the system requirements for an IT system.
+In order to obtain the requirements of an IT system, we can gather information on the stakeholders by direct observation, conducting interviews, and questionnaires.
+On the other hand, we can analyze existing systems or compare with competing products.
+
+#### Types of Processing
+
+Analyzing types of processings can help with determining their system requirements.
+Below are some types of processings that an IT may perform.
+
 - __Online Processing:__ interactive processing performed by a single processor
 - __Real Time Processing:__ Data processed and generated in real time, effect program as data change
 - __Batch Processing:__ groups of data are processed as a single unit
 
+#### Flowcharts
+
 Flow charts can describe the process of a computer program:
 **TODO**
+
+#### Prototype
 
 We can check if a proposed system matches the client's expectation by creating `prototypes`.
 Prototypes are a bare-bones, working version of the system for testing purposes.
@@ -325,9 +346,23 @@ Prototypes can give the clients a general idea of what will the final system loo
 
 Often times, a system will be redesigned many times.
 Each prototypes will refine the product, until it reaches the client's specification.
-Stakeholders may be involved in this process. 
+
+Stakeholders may be involved during prototyping: offering suggestions or feedback.
+If stakeholders are not invovled in the design process can cause users being unsatisfied with the final product.
 
 ### Ethical Issues with Introducing a New System
+
+Sometimes, IT systems may replace human jobs.
+This is an ethical issue.
+Keep this in mind when designing new IT systems.
+
+It is also important to balance the benefits and downsides of an IT system.
+Some downsides are:
+- health issues with using computers too much
+- over complicating simple issues
+- addiction with technology (social media and games are often debated about)
+- fake information
+- etc
 
 ## Human Interaction with the System
 

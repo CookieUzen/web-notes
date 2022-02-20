@@ -4,7 +4,7 @@ description: Unit 1 of Computer Science
 ---
 > Unit 1: System Fundamentals
 
-# System Life Cycle
+ System Life Cycle
 
 ## Systems in Organizations
 
@@ -138,7 +138,7 @@ This approach allows for an extended training and adoption of the system, but ta
 ### Data Migration
 
 `Data Migration` is the process of transferring data to a different format, storage type, or computer system.
-There are many problems that will occur when data is transfered between two systems.
+There are many problems that will occur when data is transferred between two systems.
 This can by a hard drive or downloading over the Internet.
 When migrating data, errors such as incompatibility, corruption, virus (and more), can cause irreparable lost to the data.
 If it is possible, back up data before migrating.
@@ -156,9 +156,9 @@ There are several forms of testing.
 - __Functional Testing:__ test the normal functions of the program
 - __Data Testing:__ test a system response to different data types
 	* _Normal Data:_ data program expects
-	* _Data at Limits:_ normal data that causes a program respose
+	* _Data at Limits:_ normal data that causes a program response
 	* _Extreme Data:_ normal data outside of expected range
-	* _Abnormal Data:_ unexpected types otest the limits of the program (highest/lowest values)
+	* _Abnormal Data:_ unexpected types test the limits of the program (highest/lowest values)
 - __Alpha Testing:__ testing within development environment
 - __Beta Testing:__ testing given to selected, small, user base, collect feedback from users
 - __Dry-run Testing:__ programmer runs through algorithm with pen and paper
@@ -167,7 +167,7 @@ There are several forms of testing.
 - __User Acceptance Testing:__ determine of system satisfies user need
 - __Debugging:__ systematic progressing of finding and fixing bugs
 
-Sometimes, programs will be designed to test other programs (CI environement or debuggers).
+Sometimes, programs will be designed to test other programs (CI environment or debuggers).
 These programs help speed up the testing process.
 
 #### Validation and Verification
@@ -228,13 +228,13 @@ Consider the data loss of patient records in a hospital, or data loss from a ban
 
 We can prevent data loss by:
 - backup files
-- offsite storage
+- off site storage
 - using a firewall
 - remove hard copy (printed data)
 - use anti-virus software
 
 `Redundency` is the term describing duplication of hardware.
-Redundancy allows for failsafe in case of hardware failure, reducing downtime.
+Redundancy allows for fail safe in case of hardware failure, reducing downtime.
 A `failover system `will switch a failed device to its red (essentially having extra copies of the same hardware).
 
 Securing the system can also prevent data loss due to malicious software or people.
@@ -275,7 +275,7 @@ The list below is not a comprehensive list, as there are many types for clients 
 	* _Thin Client:_ client with a certain amount of processing power, used to connect to other computers
 - __Server:__ a computer that responds to requests and sends information to other computers on the network
 	* _Email Server:_ send and receive electronic mail
-	* _Domain Name System (DNS):_ record down domain names to ip address
+	* _Domain Name System (DNS):_ record down domain names to IP address
 	* _Router:_ send data packets within a network (will be discussed in the networking unit)
 
 In a `Client-Server` network, clients are connected to a server.
@@ -326,8 +326,8 @@ On the other hand, we can analyze existing systems or compare with competing pro
 
 #### Types of Processing
 
-Analyzing types of processings can help with determining their system requirements.
-Below are some types of processings that an IT may perform.
+Analyzing types of processing can help with determining their system requirements.
+Below are some types of processing that an IT may perform.
 
 - __Online Processing:__ interactive processing performed by a single processor
 - __Real Time Processing:__ Data processed and generated in real time, effect program as data change
@@ -348,7 +348,7 @@ Often times, a system will be redesigned many times.
 Each prototypes will refine the product, until it reaches the client's specification.
 
 Stakeholders may be involved during prototyping: offering suggestions or feedback.
-If stakeholders are not invovled in the design process can cause users being unsatisfied with the final product.
+If stakeholders are not involved in the design process can cause users being unsatisfied with the final product.
 
 ### Ethical Issues with Introducing a New System
 
@@ -398,3 +398,8 @@ Some common usability issues are:
 - too many buttons
 - too bright/dark
 - short battery life
+
+### Ergonomics
+
+`Ergonomics` is the process of engineering a technological product in mind of the human body.
+Such has a ergonomic mouse concave to the shape of the hand.
